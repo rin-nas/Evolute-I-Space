@@ -16,7 +16,6 @@
 
 [Группа](https://t.me/evolute_iSpace) в Телеграм (Россия)
 
-[Каталог запчастей](https://rem.ru/catalog/parts/evolute/i-space/i-space-2023/)
 
 ## Ключевые преимущества и недостатки
 
@@ -82,3 +81,8 @@
 1. Сделать [антикор выхлопной системы](https://антикор.рф/products-and-services/224/).
 1. Сделать [шумоизоляцию 4-х дверей](https://антикор.рф/products-and-services/9/). Делать шумоизоляцию днища нет смысла, т.к. от шума защищает тяговая батарея под днищем.
 1. Установить [защитную сетку на переднюю декоративную решётку](https://антикор.рф/products-and-services/10/) (для защиты решётки радиатора охлаждения двигателя от повреждений камнями)
+
+# Запчасти
+
+1. [Каталог запчастей](https://rem.ru/catalog/parts/evolute/i-space/i-space-2023/)
+1. [Щётки стеклоочистителя](https://aliexpress.ru/item/1005008317283442.html?businessType=ProductDetail&sku_id=12000044590229590&spreadType=socialShare&srcSns=sns_More&utm_medium=sharing)
