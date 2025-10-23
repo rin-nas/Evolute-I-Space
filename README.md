@@ -50,7 +50,7 @@
 
 Ниже опыт владельца при покупке автомобиля в дилере [Авилон г. Москва](https://evolute-avilon.ru/), октябрь 2025.
 
-Можно получить скидку 925 тысяч рублей по [госпрограмме](https://auto.ru/mag/article/gosprogramma-na-pokupku-avtomobilya-kto-mozhet-v-ney-uchastvovat-i-kak-vsyo-oformit/) (по условиям программы нужно взять кредит).
+Можно получить субсидию (скидку) 925 тысяч рублей по [госпрограмме](https://auto.ru/mag/article/gosprogramma-na-pokupku-avtomobilya-kto-mozhet-v-ney-uchastvovat-i-kak-vsyo-oformit/) (по условиям программы нужно взять кредит).
 
 Минимальный кредит в ОТП банке 515 т.р. на 12 месяцев под 21.825% годовых.
 Сумма процентов за весь срок 63 т.р.
