@@ -79,15 +79,16 @@
    1. Купить [USB флеш накопитель](https://www.ozon.ru/product/sandisk-128-gb-usb-flesh-nakopitel-ultra-fit-sdcz430-128g-ultra-fit-sdcz430-128g-usb-3-2-miniusb-do-1586087214/), для возможности сохранять видеофайлы встроенным видеорегистратором. Вставлять флешку нужно в разъём, который находится в бардачке напротив переднего пассажирского сидения.
    1. Купить декоративные [накладки на пороги](https://www.ozon.ru/product/nakladka-na-porogi-4-sht-2493598337/) для красоты и дополнительной защиты ЛКП.
 1. Зарядка-разрядка тяговой батареи
-   * Купить [разрядное устройство](https://www.ozon.ru/product/razryadnoe-ustroystvo-v2l-dlya-avtomobilnogo-kabelya-adaptera-elektromobilya-s-evropeyskoy-1862988930/?reviewsVariantMode=2)
-     для возможности запитывать от автомобиля бытовые электрические приборы мощностью до 3500 ватт.
    * Купить [зарядный кабель Type2](https://www.ozon.ru/product/kabel-zaryadnyy-dlya-elektromobilya-type2-type2-3-fazy-32a-22kvt-5m-2860024916/)
      для возможности заряжать автомобиль на [станциях зарядки автомобилей](https://yandex.ru/maps/213/moscow/category/electric_car_charging_station/43752131937/) с отсутствующем кабелем
-1. Купить второй комлект зимних (или летних) дисков и шин.
+   * Купить [разрядное устройство](https://www.ozon.ru/product/razryadnoe-ustroystvo-v2l-dlya-avtomobilnogo-kabelya-adaptera-elektromobilya-s-evropeyskoy-1862988930/?reviewsVariantMode=2)
+     для возможности запитывать от автомобиля бытовые электрические приборы мощностью до 3500 ватт.
+1. Купить второй комлект зимних (или летних) дисков и шин
    * Заходим на сайт Колесо.Ру [на страницу дисков для автомобиля](https://koleso.ru/auto/disks/evolute/i-space/suv-2023-2025/1-5-hybrid/), отмечаем флаг "строгий подбор".
-     Из результатов поиска, выбираем, например, [этот диск](https://koleso.ru/catalog/discs/kik/porter-ks906-299/kik-porter-ks906-7-5x18-5x110-et40-dia67-1-almaz-chernyiy/).
+     Из результатов поиска, выбираем, например, [этот](https://koleso.ru/catalog/discs/kik/porter-ks906-299/kik-porter-ks906-7-5x18-5x110-et40-dia67-1-almaz-chernyiy/) диск.
    * Заходим на сайт Колесо.Ру [на страницу шин для автомобиля](https://koleso.ru/auto/evolute/i-space/suv-2023-2025/1-5-hybrid/).
-     Из результатов поиска, выбираем, например, [эту шину](https://koleso.ru/catalog/tyres/viatti/v-523-viatti-bosco-nordico-81/viatti-bosco-nordico-v-523-235-55r18-100t----shipovannaya/#sp-product-reviews-widget).
+     Из результатов поиска, выбираем, например, [эту шипованную](https://koleso.ru/catalog/tyres/viatti/v-523-viatti-bosco-nordico-81/viatti-bosco-nordico-v-523-235-55r18-100t----shipovannaya/#sp-product-reviews-widget)
+     или [эту нешипованную](https://koleso.ru/catalog/tyres/viatti/viatti-bosco-s-t-v-526-81/viatti-bosco-s-t-v-526-235-55r18-100t---/) шину.
 1. Кузов
    1. Сделать [антикоррозийную обработку днища и скрытых полостей](https://антикор.рф/products-and-services/7/), т.к. оцинковка кузова только частичная.
    1. Сделать [антикор и шумоизоляцию подкрылок](https://антикор.рф/products-and-services/11/).
