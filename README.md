@@ -92,7 +92,7 @@
      Из результатов поиска, выбираем, например, [эту шипованную](https://koleso.ru/catalog/tyres/viatti/v-523-viatti-bosco-nordico-81/viatti-bosco-nordico-v-523-235-55r18-100t----shipovannaya/#sp-product-reviews-widget)
      или [эту нешипованную](https://koleso.ru/catalog/tyres/viatti/viatti-bosco-s-t-v-526-81/viatti-bosco-s-t-v-526-235-55r18-100t---/) шину.
 1. Кузов
-   1. Сделать [антикоррозийную обработку днища и скрытых полостей](https://антикор.рф/products-and-services/7/), т.к. оцинковка кузова только частичная.
+   1. Сделать [антикоррозийную обработку днища и скрытых полостей](https://антикор.рф/products-and-services/7/).
    1. Сделать [антикор и шумоизоляцию подкрылок](https://антикор.рф/products-and-services/11/).
    1. Сделать [антикор выхлопной системы](https://антикор.рф/products-and-services/224/).
    1. Сделать [шумоизоляцию 4-х дверей](https://антикор.рф/products-and-services/9/). Делать шумоизоляцию днища нет смысла, т.к. от шума защищает тяговая батарея под днищем.
