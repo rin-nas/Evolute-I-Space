@@ -16,6 +16,8 @@
 
 [Группа](https://t.me/evolute_iSpace) в Телеграм (Россия)
 
+[Каталог запчастей](https://rem.ru/catalog/parts/evolute/i-space/i-space-2023/)
+
 ## Ключевые преимущества и недостатки
 
 ### Преимущества
