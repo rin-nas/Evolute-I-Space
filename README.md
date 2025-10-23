@@ -10,7 +10,7 @@
   * https://www.evolute.ru/models/i-space-new (Россия)
   * https://dfsk.by/auto/dfsk-e5-plus/ (Беларусь)
 
-Спецификация на сайте [auto.ru](https://auto.ru/catalog/cars/dongfeng/fengon_e5/24039797/24039863/specifications/24039863_24039958_24039904/)
+[Спецификация](https://auto.ru/catalog/cars/dongfeng/fengon_e5/24039797/24039863/specifications/24039863_24039958_24039904/) на сайте auto.ru
 
 [Транспортный налог](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3): 95 л.с. (низкая ставка налогооблажения)
 
