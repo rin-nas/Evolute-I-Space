@@ -18,6 +18,9 @@
 
 1. Купить [коврики](https://www.ozon.ru/product/kovriki-v-salon-avtomobilya-termoplastik-tpu-1-sht-1872745794/), т.к. они в комплект не входят
 1. Купить [разрядное устройство](https://www.ozon.ru/product/razryadnoe-ustroystvo-v2l-dlya-avtomobilnogo-kabelya-adaptera-elektromobilya-s-evropeyskoy-1862988930/?reviewsVariantMode=2) для возможности запитывать от автомобиля бытовые электрические приборы мощностью до 3500 ватт
+1. Купить [зарядный кабель Type2](https://www.ozon.ru/product/kabel-zaryadnyy-dlya-elektromobilya-type2-type2-3-fazy-32a-22kvt-5m-2860024916/) для возможности заряжать автомобиль от на ЭЗС
 1. Сделать [антикорозийную обработку днища и скрытых полостей](https://антикор.рф/), т.к. оцинковка кузова только частичная
 1. Сделать [шумоизоляцию подкрылок](https://антикор.рф/)
 1. Сделать [шумоизоляцию 4-х дверей](https://антикор.рф/)
+1. Установить [сетку на переднюю решётку радиатора](https://антикор.рф/)
+
