@@ -78,9 +78,11 @@
 1. Купить [USB флеш накопитель](https://www.ozon.ru/product/sandisk-128-gb-usb-flesh-nakopitel-ultra-fit-sdcz430-128g-ultra-fit-sdcz430-128g-usb-3-2-miniusb-do-1586087214/), для возможности сохранять видеофайлы встроенным видеорегистратором. Вставлять флешку нужно в разъём, который находится в бардачке напротив переднего пассажирского сидения.
 1. Купить [разрядное устройство](https://www.ozon.ru/product/razryadnoe-ustroystvo-v2l-dlya-avtomobilnogo-kabelya-adaptera-elektromobilya-s-evropeyskoy-1862988930/?reviewsVariantMode=2) для возможности запитывать от автомобиля бытовые электрические приборы мощностью до 3500 ватт.
 1. Купить [зарядный кабель Type2](https://www.ozon.ru/product/kabel-zaryadnyy-dlya-elektromobilya-type2-type2-3-fazy-32a-22kvt-5m-2860024916/) для возможности заряжать автомобиль на [станциях зарядки автомобилей](https://yandex.ru/maps/213/moscow/category/electric_car_charging_station/43752131937/) с отсутствующем кабелем
-1. Купить второй комлект зимних (или летних)
-   * литых дисков (заходим на сайт Колесо.Ру, выбираем марку и модель автомобиля, получаем [результат поиска](https://koleso.ru/catalog/filter/discs/?discs_diameter=18&discs_pcd=5*110&discs_type%5B%5D=alloy&car_modification=2914&discs_dia=67.1&discs_et=40&discs_width=7.5&strict_mode=true))
-   * шин
+1. Купить второй комлект зимних (или летних) литых дисков.
+   Заходим на сайт Колесо.Ру, выбираем марку и модель автомобиля,
+   получаем [результат поиска](https://koleso.ru/catalog/filter/discs/?discs_diameter=18&discs_pcd=5*110&discs_type%5B%5D=alloy&car_modification=2914&discs_dia=67.1&discs_et=40&discs_width=7.5&strict_mode=true).
+   Выбираем, например, [этот](https://koleso.ru/catalog/discs/kik/porter-ks906-299/kik-porter-ks906-7-5x18-5x110-et40-dia67-1-almaz-chernyiy/).
+1. Купить второй комлект зимних (или летних) шин.
 1. Купить декоративные [накладки на пороги](https://www.ozon.ru/product/nakladka-na-porogi-4-sht-2493598337/) для красоты и дополнительной защиты ЛКП.
 1. Сделать [антикоррозийную обработку днища и скрытых полостей](https://антикор.рф/products-and-services/7/), т.к. оцинковка кузова только частичная.
 1. Сделать [антикор и шумоизоляцию подкрылок](https://антикор.рф/products-and-services/11/).
