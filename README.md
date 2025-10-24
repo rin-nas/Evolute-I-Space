@@ -90,8 +90,8 @@
 
 1. Салон
    1. Купить напольные коврики из [термопластика](https://www.ozon.ru/product/kovriki-v-salon-avtomobilya-termoplastik-tpu-1-sht-1872745794/)
-      или ворсовые [Ozon](https://www.ozon.ru/product/vorsovye-avtomobilnye-kovriki-v-salon-klassik-dlya-evolute-i-space-1-gibrid-2023-n-v-zadniy-tselnyy-1535486767/?__rr=1&abt_att=1)
-      или [WB](https://www.wildberries.ru/catalog/250239525/detail.aspx) (в комплект не входят)
+      или ворсовые [1](https://www.ozon.ru/product/vorsovye-avtomobilnye-kovriki-v-salon-klassik-dlya-evolute-i-space-1-gibrid-2023-n-v-zadniy-tselnyy-1535486767/?__rr=1&abt_att=1)
+      или [2](https://www.wildberries.ru/catalog/250239525/detail.aspx) (в комплект не входят)
    1. Купить [USB флеш накопитель](https://www.ozon.ru/product/sandisk-128-gb-usb-flesh-nakopitel-ultra-fit-sdcz430-128g-ultra-fit-sdcz430-128g-usb-3-2-miniusb-do-1586087214/), для возможности сохранять видеофайлы встроенным видеорегистратором. Вставлять флешку нужно в разъём, который находится в бардачке напротив переднего пассажирского сидения.
    1. Купить декоративные [накладки на пороги](https://www.ozon.ru/product/nakladka-na-porogi-4-sht-2493598337/) для красоты и дополнительной защиты ЛКП.
 1. Зарядка-разрядка тяговой батареи
@@ -119,17 +119,17 @@
    1. Фильтр масляный
       [1](https://rem.ru/catalog/parts/h150021000ab-19948069/),
       [2](https://www.ozon.ru/product/filtr-maslyanyy-w6103-mann-filter-haval-m6-haval-m6-mitsubisi-outlender-lanser-mitsubishi-1937268081/?at=r2t4EKqBPIgV0OJDU15qxKQI4gJMGmCZwZlrDc8BAmj2&tab=reviews)
-1. Щётки стеклоочистителя.\
+1. Щётки стеклоочистителя:
+   [1](https://aliexpress.ru/item/1005008317283442.html?businessType=ProductDetail&sku_id=12000044590229590&spreadType=socialShare&srcSns=sns_More&utm_medium=sharing),
+   [2](https://www.ozon.ru/search/?text=evolute+i-space+%D1%89%D1%91%D1%82%D0%BA%D0%B0+%D1%81%D1%82%D0%B5%D0%BA%D0%BB%D0%BE%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8F&from_global=true).\
    Тип крепления: Push button 19 мм.\
    Размеры дворников: передний левый 600 мм, передний правый 450 мм, задний 300 мм.\
-   [Aliexpress](https://aliexpress.ru/item/1005008317283442.html?businessType=ProductDetail&sku_id=12000044590229590&spreadType=socialShare&srcSns=sns_More&utm_medium=sharing),
-   [Ozon](https://www.ozon.ru/search/?text=evolute+i-space+%D1%89%D1%91%D1%82%D0%BA%D0%B0+%D1%81%D1%82%D0%B5%D0%BA%D0%BB%D0%BE%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8F&from_global=true).
 1. https://t.me/zapchasti_evolute
 
 ## Дополнительное оборудование
 
-1. Освещение багажника: [Озон](https://www.ozon.ru/category/bagazhnye-boksy-8612/)
-1. Багажные боксы: [aerobox](https://aerobox33.ru/), [Озон](https://www.ozon.ru/category/bagazhnye-boksy-8612/)
+1. Освещение багажника: [1](https://www.ozon.ru/category/bagazhnye-boksy-8612/)
+1. Багажные боксы: [1](https://aerobox33.ru/), [2](https://www.ozon.ru/category/bagazhnye-boksy-8612/)
 
 ## Техническое обслуживание
 
