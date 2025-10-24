@@ -4,7 +4,7 @@
 
 Обновлённый российский гибридный кроссовер на 5 или 7 мест.
 
-Сделан китайским автомобильным концерном [Dongfeng](https://ru.wikipedia.org/wiki/Dongfeng) и [Seres Group](https://en.seres.cn/).
+Сделан китайским автомобильным концерном [Dongfeng](https://en.wikipedia.org/wiki/Dongfeng_Motor_Corporation) и [Seres Group](https://en.seres.cn/).
 В Липецке налажена крупноузловая сборка.
 
 Альтернативные названия:
