@@ -4,7 +4,9 @@
 
 Обновлённый российский гибридный кроссовер на 5 или 7 мест.
 
-Сделан на базе китайского автомобиля [Dongfeng](https://ru.wikipedia.org/wiki/Dongfeng) DFSK E5 Plus.
+Сделан на базе китайского автомобиля [Dongfeng](https://ru.wikipedia.org/wiki/Dongfeng) [DFSK E5 Plus](https://www.youtube.com/watch?v=5jXeu-4Dv-c). 
+Ещё одно название — [Seres Landian E5 Plus](https://www.youtube.com/watch?v=QbyqdKgfQrQ).
+
 
 Выпускается с 2023 года, обновлённый (глубокий рестайлинг) — с 2025 года.
 
@@ -14,7 +16,10 @@
 
 [Спецификация](https://auto.ru/catalog/cars/dongfeng/fengon_e5/24039797/24039863/specifications/24039863_24039958_24039904/) на сайте auto.ru
 
-[Группа](https://t.me/evolute_iSpace) в Телеграм (Россия)
+Группы в Телеграм (Россия)
+1. https://t.me/evolute_iSpace
+2. https://t.me/Vad_i_Space
+
 
 
 ## Ключевые преимущества и недостатки
