@@ -4,8 +4,12 @@
 
 Обновлённый российский гибридный кроссовер на 5 или 7 мест.
 
-Сделан на базе китайского автомобиля [Dongfeng](https://ru.wikipedia.org/wiki/Dongfeng) [DFSK E5 Plus](https://www.youtube.com/watch?v=5jXeu-4Dv-c). 
-Ещё одно название — [Seres Landian E5 Plus](https://www.youtube.com/watch?v=QbyqdKgfQrQ).
+Сделан китайским автомобильным концерном [Dongfeng](https://ru.wikipedia.org/wiki/Dongfeng) и Seres Group.
+В Липецке налажена крупноузловая сборка.
+
+Альтернативные названия:
+1. [DFSK E5 Plus](https://www.youtube.com/watch?v=5jXeu-4Dv-c)
+1. [Seres Landian E5 Plus](https://www.youtube.com/watch?v=QbyqdKgfQrQ)
 
 
 Выпускается с 2023 года, обновлённый (глубокий рестайлинг) — с 2025 года.
