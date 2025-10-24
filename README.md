@@ -115,6 +115,10 @@
    [Aliexpress](https://aliexpress.ru/item/1005008317283442.html?businessType=ProductDetail&sku_id=12000044590229590&spreadType=socialShare&srcSns=sns_More&utm_medium=sharing),
    [Ozon](https://www.ozon.ru/search/?text=evolute+i-space+%D1%89%D1%91%D1%82%D0%BA%D0%B0+%D1%81%D1%82%D0%B5%D0%BA%D0%BB%D0%BE%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8F&from_global=true).
 1. https://t.me/zapchasti_evolute
+
+## Дополнительное оборудование
+
+1. Освещение багажника: [Озон](https://www.ozon.ru/category/bagazhnye-boksy-8612/)
 1. Багажные боксы: [aerobox](https://aerobox33.ru/), [Озон](https://www.ozon.ru/category/bagazhnye-boksy-8612/)
 
 ## Техническое обслуживание
