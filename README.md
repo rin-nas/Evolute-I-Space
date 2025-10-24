@@ -109,7 +109,10 @@
 
 1. [Каталог запчастей](https://rem.ru/catalog/parts/evolute/i-space/i-space-2023/)
    1. [Фильтр масляный](https://rem.ru/catalog/parts/h150021000ab-19948069/)
-1. [Щётки стеклоочистителя](https://aliexpress.ru/item/1005008317283442.html?businessType=ProductDetail&sku_id=12000044590229590&spreadType=socialShare&srcSns=sns_More&utm_medium=sharing)
+1. Щётки стеклоочистителя.
+   Тип крепления: Push button 19 мм.?\
+   Размеры дворников: передний левый 600 мм, передний правый 450 мм, задний 300 мм.\
+   [Aliexpress](https://aliexpress.ru/item/1005008317283442.html?businessType=ProductDetail&sku_id=12000044590229590&spreadType=socialShare&srcSns=sns_More&utm_medium=sharing).
 1. https://t.me/zapchasti_evolute
 
 ## Техническое обслуживание
