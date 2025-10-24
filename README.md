@@ -83,7 +83,9 @@
 ## Что ещё нужно (желательно) купить или сделать после приобретения автомобиля?
 
 1. Салон
-   1. Купить напольные коврики из [термопластика](https://www.ozon.ru/product/kovriki-v-salon-avtomobilya-termoplastik-tpu-1-sht-1872745794/) или [ворсовые](https://www.ozon.ru/product/vorsovye-avtomobilnye-kovriki-v-salon-klassik-dlya-evolute-i-space-1-gibrid-2023-n-v-zadniy-tselnyy-1535486767/?__rr=1&abt_att=1) (в комплект не входят)
+   1. Купить напольные коврики из [термопластика](https://www.ozon.ru/product/kovriki-v-salon-avtomobilya-termoplastik-tpu-1-sht-1872745794/)
+      или ворсовые [Ozon](https://www.ozon.ru/product/vorsovye-avtomobilnye-kovriki-v-salon-klassik-dlya-evolute-i-space-1-gibrid-2023-n-v-zadniy-tselnyy-1535486767/?__rr=1&abt_att=1)
+      или [WB](https://www.wildberries.ru/catalog/250239525/detail.aspx) (в комплект не входят)
    1. Купить [USB флеш накопитель](https://www.ozon.ru/product/sandisk-128-gb-usb-flesh-nakopitel-ultra-fit-sdcz430-128g-ultra-fit-sdcz430-128g-usb-3-2-miniusb-do-1586087214/), для возможности сохранять видеофайлы встроенным видеорегистратором. Вставлять флешку нужно в разъём, который находится в бардачке напротив переднего пассажирского сидения.
    1. Купить декоративные [накладки на пороги](https://www.ozon.ru/product/nakladka-na-porogi-4-sht-2493598337/) для красоты и дополнительной защиты ЛКП.
 1. Зарядка-разрядка тяговой батареи
