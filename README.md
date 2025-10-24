@@ -87,9 +87,9 @@
    * Купить [разрядное устройство](https://www.ozon.ru/product/razryadnoe-ustroystvo-v2l-dlya-avtomobilnogo-kabelya-adaptera-elektromobilya-s-evropeyskoy-1862988930/?reviewsVariantMode=2)
      для возможности запитывать от автомобиля бытовые электрические приборы мощностью до 3500 ватт.
 1. Купить второй комлект зимних (или летних) дисков и шин
-   * Заходим на сайт Колесо.Ру [на страницу дисков для автомобиля](https://koleso.ru/auto/disks/evolute/i-space/suv-2023-2025/1-5-hybrid/), отмечаем флаг "строгий подбор".
+   * На сайте Колесо.Ру [на странице дисков для автомобиля](https://koleso.ru/auto/disks/evolute/i-space/suv-2023-2025/1-5-hybrid/), отмечаем флаг "строгий подбор".
      Из результатов поиска, выбираем, например, [этот](https://koleso.ru/catalog/discs/kik/porter-ks906-299/kik-porter-ks906-7-5x18-5x110-et40-dia67-1-almaz-chernyiy/) диск.
-   * Заходим на сайт Колесо.Ру [на страницу шин для автомобиля](https://koleso.ru/auto/evolute/i-space/suv-2023-2025/1-5-hybrid/).
+   * На сайте Колесо.Ру [на странице шин для автомобиля](https://koleso.ru/auto/evolute/i-space/suv-2023-2025/1-5-hybrid/).
      Из результатов поиска, выбираем, например, [эту шипованную](https://koleso.ru/catalog/tyres/viatti/v-523-viatti-bosco-nordico-81/viatti-bosco-nordico-v-523-235-55r18-100t----shipovannaya/#sp-product-reviews-widget)
      или [эту нешипованную](https://koleso.ru/catalog/tyres/viatti/viatti-bosco-s-t-v-526-81/viatti-bosco-s-t-v-526-235-55r18-100t---/) шину.
 1. Кузов
