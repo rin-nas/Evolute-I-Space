@@ -100,6 +100,7 @@
       или [2](https://www.wildberries.ru/catalog/250239525/detail.aspx) (в комплект не входят)
    1. Купить [USB флеш накопитель](https://www.ozon.ru/product/sandisk-128-gb-usb-flesh-nakopitel-ultra-fit-sdcz430-128g-ultra-fit-sdcz430-128g-usb-3-2-miniusb-do-1586087214/), для возможности сохранять видеофайлы встроенным видеорегистратором. Вставлять флешку нужно в разъём, который находится в бардачке напротив переднего пассажирского сидения.
    1. Купить декоративные [накладки на пороги](https://www.ozon.ru/product/nakladka-na-porogi-4-sht-2493598337/) для красоты и дополнительной защиты ЛКП.
+   1. Купить [дополнительное освещение багажника](https://www.ozon.ru/product/plafon-v-salon-avtomobilya-2677687563/). Штатная лампочка сбоку почти ничего не освещает.
 1. Зарядка-разрядка тяговой батареи
    * Купить [зарядный кабель Type2](https://www.ozon.ru/product/kabel-zaryadnyy-dlya-elektromobilya-type2-type2-3-fazy-32a-22kvt-5m-2860024916/)
      для возможности заряжать автомобиль на [станциях зарядки автомобилей](https://yandex.ru/maps/213/moscow/category/electric_car_charging_station/43752131937/) с отсутствующем кабелем
@@ -144,7 +145,6 @@
 
 ## Дополнительное оборудование
 
-1. Освещение багажника: [1](https://www.ozon.ru/category/bagazhnye-boksy-8612/)
 1. Багажник на крышу: [1](https://boxteam.ru/avtobagazhniki/evolute/i-space/bagazhnik-ed-argo-na-kryshu-avtomobilya-evolute-i-space-s-2023-g-na-integrirovannyj-rejling-chernaya-krylovidnaya-duga)
 1. Багажные боксы на крышу: [1](https://aerobox33.ru/), [2](https://www.ozon.ru/category/bagazhnye-boksy-8612/)
 1. Зарядные устройства: [1](https://www.ozon.ru/seller/ev-charger-2582163/products/?miniapp=seller_2582163), [2](https://www.wildberries.ru/seller/250001927)
