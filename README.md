@@ -134,6 +134,7 @@
    1. Фильтр масляный
       [1](https://rem.ru/catalog/parts/h150021000ab-19948069/),
       [2](https://www.ozon.ru/product/filtr-maslyanyy-w6103-mann-filter-haval-m6-haval-m6-mitsubisi-outlender-lanser-mitsubishi-1937268081/?at=r2t4EKqBPIgV0OJDU15qxKQI4gJMGmCZwZlrDc8BAmj2&tab=reviews)
+1. Фильтр салонный: [1](https://www.wildberries.ru/catalog/350858545/detail.aspx)
 1. Щётки стеклоочистителя:
    [1](https://aliexpress.ru/item/1005008317283442.html?businessType=ProductDetail&sku_id=12000044590229590&spreadType=socialShare&srcSns=sns_More&utm_medium=sharing),
    [2](https://www.ozon.ru/search/?text=evolute+i-space+%D1%89%D1%91%D1%82%D0%BA%D0%B0+%D1%81%D1%82%D0%B5%D0%BA%D0%BB%D0%BE%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8F&from_global=true).\
@@ -160,7 +161,7 @@
 | Да  | [Автотракт](https://evolute-vladimir.ru/) (г. Владимир , ул. Куйбышева, д. 28У)                               | 15,000 ₽     | 25,000 ₽     |
 | Нет | [СТО «Фильтр»](https://stofilter.ru/moscow/stations/) (г. Москва, ул. Краснобогатырская, д. 2 стр. 25)        | 13,000 ₽     | 
 
-Неофициальные дилеры имеют сертификаты на товары и услуги, поэтому гарантия на автомобиль не теряется.
+Неофициальные дилеры должны иметь лицензию и сертификаты на товары и услуги, чтобы сохранилась гарантия на автомобиль.
 
 ## Вопросы и ответы
 
