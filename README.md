@@ -132,7 +132,8 @@
       [1](https://www.ozon.ru/product/plafon-v-salon-avtomobilya-2677687563/),
       [2](https://www.wildberries.ru/catalog/464621392/detail.aspx?size=653074730).
       Штатная лампочка сбоку почти ничего не освещает (так на многих автомобилях).
-   1. Купить выдвижную шторку багажника: [1](https://www.ozon.ru/product/vydvizhnaya-shtorka-bagazhnika-dlya-evolute-i-speac-7-mest-2022-brezent-ustoychivaya-k-2980369211/?from_sku=2980369760&oos_search=false)
+   1. Купить выдвижную шторку в багажник: [1](https://www.ozon.ru/product/vydvizhnaya-shtorka-bagazhnika-dlya-evolute-i-speac-7-mest-2022-brezent-ustoychivaya-k-2980369211/?from_sku=2980369760&oos_search=false)
+   1. Купить перегородку в багажник: [1](https://www.ozon.ru/product/peregorodka-bagazhnika-dlya-evolute-i-space-2025-aksessuary-evolute-i-space-2025-3000311105/)
 1. Зарядка-разрядка тяговой батареи
    * Купить [зарядный кабель Type2](https://www.ozon.ru/product/kabel-zaryadnyy-dlya-elektromobilya-type2-type2-3-fazy-32a-22kvt-5m-2860024916/)
      для возможности заряжать автомобиль на [станциях зарядки автомобилей](https://yandex.ru/maps/213/moscow/category/electric_car_charging_station/43752131937/) с отсутствующем кабелем
@@ -151,7 +152,9 @@
    1. Сделать [антикоррозийную обработку днища и скрытых полостей](https://антикор.рф/products-and-services/7/).
    1. Сделать [антикор и шумоизоляцию подкрылок](https://антикор.рф/products-and-services/11/).
    1. Сделать [антикор выхлопной системы](https://антикор.рф/products-and-services/224/).
-   1. Установить [защитную сетку на переднюю декоративную решётку](https://антикор.рф/products-and-services/10/) (для защиты решётки радиатора охлаждения двигателя от повреждений камнями)
+   1. Установить защитную сетку на переднюю декоративную решётку (для защиты решётки радиатора охлаждения двигателя от повреждений камнями):
+      [1](https://антикор.рф/products-and-services/10/) (со снятием бампера),
+      [2](https://www.ozon.ru/product/zashchita-vneshnih-chastey-avtomobilya-1-sht-3010503826/) (без снятия бампера)
    1. Купить и установить под днищем [защиту картера двигателя NLZ](https://www.ozon.ru/product/zk-i-krepezh-podhodit-dlya-evolute-i-space-2023-3-mm-1-5-gibrid-cvt-fwd-evolyut-ay-speys-2942971229/) от повреждений (там большое сквозное отвестие). Оригинальный каталожный номер ESPNL001EP.
    1. Сделать [шумоизоляцию](https://www.shumoff-moscow.ru/). Делать шумоизоляцию днища, возможно, нет смысла, т.к. от шума защищает тяговая батарея под днищем.
 
