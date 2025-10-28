@@ -171,7 +171,7 @@
 
 ## Дополнительное оборудование
 
-1. Багажник на крышу: [1](https://boxteam.ru/avtobagazhniki/evolute/i-space/bagazhnik-ed-argo-na-kryshu-avtomobilya-evolute-i-space-s-2023-g-na-integrirovannyj-rejling-chernaya-krylovidnaya-duga)
+1. Багажник на крышу (крыловидная поперечная дуга, которая крепится на стандартный продольный рейлинг): [1](https://boxteam.ru/avtobagazhniki/evolute/i-space/bagazhnik-ed-argo-na-kryshu-avtomobilya-evolute-i-space-s-2023-g-na-integrirovannyj-rejling-chernaya-krylovidnaya-duga)
 1. Багажные боксы на крышу: [1](https://aerobox33.ru/), [2](https://www.ozon.ru/category/bagazhnye-boksy-8612/)
 1. Зарядные устройства: [1](https://www.ozon.ru/seller/ev-charger-2582163/products/?miniapp=seller_2582163), [2](https://www.wildberries.ru/seller/250001927)
 
