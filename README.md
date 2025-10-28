@@ -132,6 +132,7 @@
       [1](https://www.ozon.ru/product/plafon-v-salon-avtomobilya-2677687563/),
       [2](https://www.wildberries.ru/catalog/464621392/detail.aspx?size=653074730).
       Штатная лампочка сбоку почти ничего не освещает (так на многих автомобилях).
+   1. Купить выдвижную шторку багажника: [1](https://www.ozon.ru/product/vydvizhnaya-shtorka-bagazhnika-dlya-evolute-i-speac-7-mest-2022-brezent-ustoychivaya-k-2980369211/?from_sku=2980369760&oos_search=false)
 1. Зарядка-разрядка тяговой батареи
    * Купить [зарядный кабель Type2](https://www.ozon.ru/product/kabel-zaryadnyy-dlya-elektromobilya-type2-type2-3-fazy-32a-22kvt-5m-2860024916/)
      для возможности заряжать автомобиль на [станциях зарядки автомобилей](https://yandex.ru/maps/213/moscow/category/electric_car_charging_station/43752131937/) с отсутствующем кабелем
