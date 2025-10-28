@@ -7,7 +7,7 @@
 Сделан китайским автомобильным концерном [Dongfeng](https://en.wikipedia.org/wiki/Dongfeng_Motor_Corporation) и [Seres](https://en.seres.cn/).
 В Липецке налажена крупноузловая сборка.
 
-Альтернативные названия:
+Альтернативные названия и видео обзоры:
 1. [DFSK E5 Plus](https://www.youtube.com/watch?v=5jXeu-4Dv-c)
 1. [Seres Landian E5 Plus](https://www.youtube.com/watch?v=QbyqdKgfQrQ)
 
