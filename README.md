@@ -131,6 +131,8 @@
      или [эту нешипованную](https://koleso.ru/catalog/tyres/viatti/viatti-bosco-s-t-v-526-81/viatti-bosco-s-t-v-526-235-55r18-100t---/) шину.
    * [Датчики давления в шинах](https://alltpms.ru/katalog/base-m/evolute/evolute-i-space).
 1. Кузов
+   1. Купить и заменить [рамку для госномера](https://www.ozon.ru/category/ramki-dlya-nomerov-8625/avs-30931634/) на более качественную, без рекламы автосалона.
+      Возможно, придётся докупить болты нужной длины.
    1. Сделать [антикоррозийную обработку днища и скрытых полостей](https://антикор.рф/products-and-services/7/).
    1. Сделать [антикор и шумоизоляцию подкрылок](https://антикор.рф/products-and-services/11/).
    1. Сделать [антикор выхлопной системы](https://антикор.рф/products-and-services/224/).
