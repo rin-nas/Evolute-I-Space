@@ -146,7 +146,7 @@
       При наличии карты памяти формата MicroSD купите только [картридер](https://www.ozon.ru/product/kartrider-usb-3-2-micro-sd-perehodnik-dlya-fleshkart-1801251001/).
    1. Купить декоративные [накладки на пороги](https://www.ozon.ru/product/nakladka-na-porogi-4-sht-2493598337/) для красоты и дополнительной защиты ЛКП.
    1. Купить дополнительное освещение багажника:
-      [1](https://www.ozon.ru/product/plafon-v-salon-avtomobilya-2677687563/),
+      [1](https://www.ozon.ru/product/lenta-svetodiodnaya-dlya-avtomobilya-1-sht-art-dd111-1754252806/),
       [2](https://www.wildberries.ru/catalog/464621392/detail.aspx?size=653074730).
       Штатная лампочка сбоку почти ничего не освещает (так на многих автомобилях).
    1. Купить выдвижную шторку в багажник: [1](https://www.ozon.ru/product/vydvizhnaya-shtorka-bagazhnika-dlya-evolute-i-speac-7-mest-2022-brezent-ustoychivaya-k-2980369211/?from_sku=2980369760&oos_search=false)
