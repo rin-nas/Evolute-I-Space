@@ -184,7 +184,7 @@
       [2](https://www.ozon.ru/product/zashchita-vneshnih-chastey-avtomobilya-1-sht-3010503826/) (без снятия бампера)
    1. Установить под днищем [защиту картера двигателя NLZ](https://www.ozon.ru/product/zk-i-krepezh-podhodit-dlya-evolute-i-space-2023-3-mm-1-5-gibrid-cvt-fwd-evolyut-ay-speys-2942971229/) от повреждений (там большое сквозное отвестие).
       Оригинальный каталожный номер запчасти [`ESPNL001EP`](https://ya.ru/search/?text=ESPNL001EP+%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0).
-      Оригинальная [защита картера двигателя и тяговой батареи](https://www.ozon.ru/product/zashchita-vneshnih-chastey-avtomobilya-2-sht-2967979402/) (стоит очень дорого).
+      Оригинальная [защита картера двигателя и тяговой батареи](https://www.ozon.ru/product/zashchita-vneshnih-chastey-avtomobilya-2-sht-2967979402/) (цена очень завышена).
    1. Установить под днищем [защиту тяговой батареи](https://www.drive2.ru/b/701071704687919722/), т.к. между двигателем батареей много проводов и шлангов.
    1. Сделать [шумоизоляцию](https://www.shumoff-moscow.ru/).
       Делать шумоизоляцию днища, возможно, нет смысла, т.к. от шума защищает тяговая батарея под днищем.
