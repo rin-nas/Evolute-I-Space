@@ -137,13 +137,13 @@
       [2](https://www.wildberries.ru/catalog/464621392/detail.aspx?size=653074730).
       Штатная лампочка сбоку почти ничего не освещает (так на многих автомобилях).
    1. Купить выдвижную шторку в багажник: [1](https://www.ozon.ru/product/vydvizhnaya-shtorka-bagazhnika-dlya-evolute-i-speac-7-mest-2022-brezent-ustoychivaya-k-2980369211/?from_sku=2980369760&oos_search=false)
-   1. Купить перегородку в багажник: [1](https://www.ozon.ru/product/peregorodka-bagazhnika-dlya-evolute-i-space-2025-aksessuary-evolute-i-space-2025-3000311105/)
 1. Зарядка-разрядка тяговой батареи
    * Купить [разрядное устройство](https://www.ozon.ru/product/razryadnoe-ustroystvo-v2l-dlya-avtomobilnogo-kabelya-adaptera-elektromobilya-s-evropeyskoy-1862988930/?reviewsVariantMode=2)
      для возможности запитывать от автомобиля бытовые электрические приборы мощностью до 3500 ватт.
    * Купить [зарядный кабель разъёма Type2](https://www.ozon.ru/product/kabel-zaryadnyy-dlya-elektromobilya-type2-type2-3-fazy-32a-22kvt-5m-2860024916/).
      для возможности заряжать автомобиль на [станциях зарядки автомобилей](https://yandex.ru/maps/213/moscow/category/electric_car_charging_station/43752131937/) с отсутствующем кабелем Type2.
    * Купить переходник [с разъёма GB/T на Type2](https://aliexpress.ru/item/1005009264044405.html?sku_id=12000048528149965&spm=a2g2w.productlist.search_results.5.73a36516VY3gsT).
+   * Купить [зарядное утройство от бытовой розетки 220V](https://www.ozon.ru/product/zaryadnoe-ustroystvo-dlya-elektromobilya-type-2-3-5-kvt-16a-220v-kabel-5-m-sumka-2128792361/?at=vQtrV78VZsZkDnXKTLMEyzEhMJqqlS50z8KEfzwmP3p), при его отсутствии (есть в комплекте с автомобилем).
 1. Купить второй комлект зимних (или летних) дисков и шин
    * [Диски для автомобиля](https://koleso.ru/auto/disks/evolute/i-space/suv-2023-2025/1-5-hybrid/). Поставьте флаг "строгий подбор".
      Из результатов поиска, выберите, например, [R18 диск](https://koleso.ru/catalog/discs/kik/porter-ks906-299/kik-porter-ks906-7-5x18-5x110-et40-dia67-1-almaz-chernyiy/).
