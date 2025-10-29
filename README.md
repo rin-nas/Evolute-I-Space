@@ -143,7 +143,7 @@
    * Купить [зарядный кабель разъёма Type2](https://www.ozon.ru/product/kabel-zaryadnyy-dlya-elektromobilya-type2-type2-3-fazy-32a-22kvt-5m-2860024916/).
      для возможности заряжать автомобиль на [станциях зарядки автомобилей](https://yandex.ru/maps/213/moscow/category/electric_car_charging_station/43752131937/) с отсутствующем кабелем Type2.
    * Купить переходник [с разъёма GB/T на Type2](https://aliexpress.ru/item/1005009264044405.html?sku_id=12000048528149965&spm=a2g2w.productlist.search_results.5.73a36516VY3gsT).
-   * Купить [зарядное утройство от бытовой розетки 220V](https://www.ozon.ru/product/zaryadnoe-ustroystvo-dlya-elektromobilya-type-2-3-5-kvt-16a-220v-kabel-5-m-sumka-2128792361/?at=vQtrV78VZsZkDnXKTLMEyzEhMJqqlS50z8KEfzwmP3p), при его отсутствии (есть в комплекте с автомобилем).
+   * Купить [зарядное утройство от бытовой розетки 220V](https://www.ozon.ru/product/zaryadnoe-ustroystvo-dlya-elektromobilya-type-2-3-5-kvt-16a-220v-kabel-5-m-sumka-2128792361/?at=vQtrV78VZsZkDnXKTLMEyzEhMJqqlS50z8KEfzwmP3p), при его отсутствии (должно быть в комплекте с автомобилем).
 1. Купить второй комлект зимних (или летних) дисков и шин
    * [Диски для автомобиля](https://koleso.ru/auto/disks/evolute/i-space/suv-2023-2025/1-5-hybrid/). Поставьте флаг "строгий подбор".
      Из результатов поиска, выберите, например, [R18 диск](https://koleso.ru/catalog/discs/kik/porter-ks906-299/kik-porter-ks906-7-5x18-5x110-et40-dia67-1-almaz-chernyiy/).
