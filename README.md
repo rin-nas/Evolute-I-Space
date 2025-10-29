@@ -162,10 +162,13 @@
      при его отсутствии (должно быть в комплекте с автомобилем).
 1. Купить второй комлект зимних (или летних) дисков и шин
    * [Диски для автомобиля](https://koleso.ru/auto/disks/evolute/i-space/suv-2023-2025/1-5-hybrid/). Поставьте флаг "строгий подбор".
-     Из результатов поиска, выберите, например, [R18 диск](https://koleso.ru/catalog/discs/kik/porter-ks906-299/kik-porter-ks906-7-5x18-5x110-et40-dia67-1-almaz-chernyiy/).
+     Из результатов поиска, выберите, например, [диск R18](https://koleso.ru/catalog/discs/kik/porter-ks906-299/kik-porter-ks906-7-5x18-5x110-et40-dia67-1-almaz-chernyiy/).
    * [Шины для автомобиля](https://koleso.ru/auto/evolute/i-space/suv-2023-2025/1-5-hybrid/).
-     Из результатов поиска, выберите, например, [R18 шипованную](https://koleso.ru/catalog/tyres/viatti/v-523-viatti-bosco-nordico-81/viatti-bosco-nordico-v-523-235-55r18-100t----shipovannaya/#sp-product-reviews-widget)
-     или [R18 нешипованную](https://koleso.ru/catalog/tyres/viatti/viatti-bosco-s-t-v-526-81/viatti-bosco-s-t-v-526-235-55r18-100t---/) шину.
+     Из результатов поиска, выберите, например, шину
+     [R18 шипованную](https://koleso.ru/catalog/tyres/viatti/v-523-viatti-bosco-nordico-81/viatti-bosco-nordico-v-523-235-55r18-100t----shipovannaya/#sp-product-reviews-widget),
+     [R18 нешипованную](https://koleso.ru/catalog/tyres/viatti/viatti-bosco-s-t-v-526-81/viatti-bosco-s-t-v-526-235-55r18-100t---/),
+     [R19 шипованную](https://koleso.ru/catalog/tyres/sailun/ice-blazer-wst3-11506/sailun-ice-blazer-wst3-235-50r19-t103--0---shipovannaya/),
+     [R19 нешипованную](https://koleso.ru/catalog/tyres/sailun/ice-blazer-arctic-evo-11506/sailun-ice-blazer-arctic-evo-235-50r19-103h---/).
    * [Датчики давления в шинах](https://alltpms.ru/katalog/base-m/evolute/evolute-i-space).
 1. Кузов
    1. Купить и заменить [рамку для госномера](https://www.ozon.ru/category/ramki-dlya-nomerov-8625/avs-30931634/) на более качественную, без рекламы автосалона.
