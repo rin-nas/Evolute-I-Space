@@ -168,11 +168,9 @@
    * Шины для автомобиля:
        [1](https://koleso.ru/auto/evolute/i-space/suv-2023-2025/1-5-hybrid/),
        [2](https://mosautoshina.ru/auto/evolute/i-space/2025/phev-/).
-     Из результатов поиска, выберите, например, шину
-     * R19 зимнюю шипованную [1](https://koleso.ru/catalog/tyres/sailun/ice-blazer-wst3-11506/sailun-ice-blazer-wst3-235-50r19-t103--0---shipovannaya/),
-                             [2](https://mosautoshina.ru/catalog/tyre/windforce/arctic-power/235-50-19-103-T-XL-/).
-     * R19 зимнюю нешипованную [1](https://koleso.ru/catalog/tyres/sailun/ice-blazer-arctic-evo-11506/sailun-ice-blazer-arctic-evo-235-50r19-103h---/),
-                               [2](https://mosautoshina.ru/catalog/tyre/goodride/sw618/235-50-19-99-H--/).
+     Из результатов поиска, выберите, например, шину R19 зимнюю шипованную:
+       [1](https://koleso.ru/catalog/tyres/sailun/ice-blazer-wst3-11506/sailun-ice-blazer-wst3-235-50r19-t103--0---shipovannaya/),
+       [2](https://mosautoshina.ru/catalog/tyre/windforce/arctic-power/235-50-19-103-T-XL-/).
    * [Датчики давления в шинах](https://alltpms.ru/katalog/base-m/evolute/evolute-i-space).
 1. Кузов
    1. Купить и заменить [рамку для госномера](https://www.ozon.ru/category/ramki-dlya-nomerov-8625/avs-30931634/) на более качественную, без рекламы автосалона.
