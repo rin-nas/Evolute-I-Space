@@ -161,9 +161,13 @@
      [2](https://www.ozon.ru/product/zaryadnoe-ustroystvo-dlya-elektromobilya-type2-220v-16a-2839676179/),
      при его отсутствии (должно быть в комплекте с автомобилем).
 1. Купить второй комлект зимних (или летних) дисков и шин
-   * [Диски для автомобиля](https://koleso.ru/auto/disks/evolute/i-space/suv-2023-2025/1-5-hybrid/). Поставьте флаг "строгий подбор".
+   * Диски для автомобиля:
+     [1](https://koleso.ru/auto/disks/evolute/i-space/suv-2023-2025/1-5-hybrid/) (поставьте флаг "строгий подбор").
+     [2](https://mosautoshina.ru/auto/evolute/i-space/2025/phev-/).
      Из результатов поиска, выберите, например, [диск R18](https://koleso.ru/catalog/discs/kik/porter-ks906-299/kik-porter-ks906-7-5x18-5x110-et40-dia67-1-almaz-chernyiy/).
-   * [Шины для автомобиля](https://koleso.ru/auto/evolute/i-space/suv-2023-2025/1-5-hybrid/).
+   * Шины для автомобиля:
+     [1](https://koleso.ru/auto/evolute/i-space/suv-2023-2025/1-5-hybrid/),
+     [2](https://mosautoshina.ru/auto/evolute/i-space/2025/phev-/).
      Из результатов поиска, выберите, например, зимнюю шину
      [R18 шипованную](https://koleso.ru/catalog/tyres/viatti/v-523-viatti-bosco-nordico-81/viatti-bosco-nordico-v-523-235-55r18-100t----shipovannaya/#sp-product-reviews-widget),
      [R18 нешипованную](https://koleso.ru/catalog/tyres/viatti/viatti-bosco-s-t-v-526-81/viatti-bosco-s-t-v-526-235-55r18-100t---/),
