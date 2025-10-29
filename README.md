@@ -164,7 +164,7 @@
    * [Диски для автомобиля](https://koleso.ru/auto/disks/evolute/i-space/suv-2023-2025/1-5-hybrid/). Поставьте флаг "строгий подбор".
      Из результатов поиска, выберите, например, [диск R18](https://koleso.ru/catalog/discs/kik/porter-ks906-299/kik-porter-ks906-7-5x18-5x110-et40-dia67-1-almaz-chernyiy/).
    * [Шины для автомобиля](https://koleso.ru/auto/evolute/i-space/suv-2023-2025/1-5-hybrid/).
-     Из результатов поиска, выберите, например, шину
+     Из результатов поиска, выберите, например, зимнюю шину
      [R18 шипованную](https://koleso.ru/catalog/tyres/viatti/v-523-viatti-bosco-nordico-81/viatti-bosco-nordico-v-523-235-55r18-100t----shipovannaya/#sp-product-reviews-widget),
      [R18 нешипованную](https://koleso.ru/catalog/tyres/viatti/viatti-bosco-s-t-v-526-81/viatti-bosco-s-t-v-526-235-55r18-100t---/),
      [R19 шипованную](https://koleso.ru/catalog/tyres/sailun/ice-blazer-wst3-11506/sailun-ice-blazer-wst3-235-50r19-t103--0---shipovannaya/),
