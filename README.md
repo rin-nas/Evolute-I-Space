@@ -181,8 +181,8 @@
       [антикор и шумоизоляцию подкрылок](https://антикор.рф/products-and-services/11/),
       [антикор выхлопной системы](https://антикор.рф/products-and-services/224/).
    1. Установить защитную сетку на переднюю декоративную решётку (для защиты решётки радиатора охлаждения двигателя от повреждений камнями):
-      [1](https://антикор.рф/products-and-services/10/) (со снятием бампера),
-      [2](https://www.ozon.ru/product/zashchita-vneshnih-chastey-avtomobilya-1-sht-3010503826/) (без снятия бампера)
+      [со снятием бампера](https://антикор.рф/products-and-services/10/),
+      [без снятия бампера](https://www.ozon.ru/product/zashchita-vneshnih-chastey-avtomobilya-1-sht-3010503826/).
    1. Установить под днищем [защиту картера двигателя NLZ](https://www.ozon.ru/product/zk-i-krepezh-podhodit-dlya-evolute-i-space-2023-3-mm-1-5-gibrid-cvt-fwd-evolyut-ay-speys-2942971229/) от повреждений (там большое сквозное отвестие).
       Оригинальный каталожный номер запчасти [`ESPNL001EP`](https://ya.ru/search/?text=ESPNL001EP+%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0).
       Оригинальная [защита картера двигателя и тяговой батареи](https://www.ozon.ru/product/zashchita-vneshnih-chastey-avtomobilya-2-sht-2967979402/) (цена очень завышена).
