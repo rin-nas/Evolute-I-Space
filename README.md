@@ -15,13 +15,20 @@
 Обзоры: [1](https://китайские-автомобили.рф/2025/09/28/evolute-i-space-2025/amp/).
 
 Официальный сайт и страница:
-* https://www.evolute.ru/models/i-space-new (Россия)
-* https://dfsk.by/auto/dfsk-e5-plus/ (Беларусь)
-* https://www.landian.com.cn/ (Китай)
+1. https://www.evolute.ru/models/i-space-new (Россия)
+1. https://dfsk.by/auto/dfsk-e5-plus/ (Беларусь)
+1. https://www.landian.com.cn/ (Китай)
 
-**Габариты**
+[Спецификация](https://auto.ru/catalog/cars/dongfeng/fengon_e5/24039797/24039863/specifications/24039863_24039958_24039904/) на сайте auto.ru.
 
-В сравнении с другими 7-ми местными кроссоверами
+Группы в Телеграм (Россия)
+1. https://t.me/evolute_iSpace
+1. https://t.me/Vad_i_Space
+1. https://t.me/EvoluteChat/397633
+
+## Габариты
+
+В сравнении с другими 7-ми местными кроссоверами:
 
 | Параметр (мм.)             | Evolute I-Space 2025 | Skoda Kodiaq 2022 | Chery Tiggo 8 Pro Max 2023 | Kia Sorento 2022
 | :------------------------- | -------------------: | ----------------: | -------------------------: | ---------------:
@@ -30,13 +37,6 @@
 | Высота                     | 1710                 | 1676–1681         | 1705                       | 1690    
 | Колёсная база              | 2785                 | 2790              | 2710                       | 2815    
 | Дорожный просвет (клиренс) | 180                  | 189–196           | 190                        | 176    
-
-[Спецификация](https://auto.ru/catalog/cars/dongfeng/fengon_e5/24039797/24039863/specifications/24039863_24039958_24039904/) на сайте auto.ru.
-
-Группы в Телеграм (Россия)
-1. https://t.me/evolute_iSpace
-1. https://t.me/Vad_i_Space
-1. https://t.me/EvoluteChat/397633
 
 ## Ключевые преимущества и недостатки
 
