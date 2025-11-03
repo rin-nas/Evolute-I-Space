@@ -165,7 +165,9 @@
       для возможности сохранять видеофайлы встроенным видеорегистратором.
       Вставлять флешку нужно в разъём, который находится в бардачке напротив переднего пассажирского сидения.
       При наличии карты памяти формата MicroSD купите только [картридер](https://www.ozon.ru/product/kartrider-usb-3-2-micro-sd-perehodnik-dlya-fleshkart-1801251001/).
-   1. Купить декоративные [накладки на пороги](https://www.ozon.ru/product/nakladka-na-porogi-4-sht-2493598337/) для красоты и дополнительной защиты ЛКП.
+   1. Купить декоративные накладки на пороги для красоты и дополнительной защиты ЛКП:
+        [1](https://www.ozon.ru/product/nakladka-na-porogi-4-sht-2493598337/),
+        [2](https://www.ozon.ru/product/karbonovye-nakladki-nakleyki-na-porogi-dlya-zashchity-avto-evolute-evolyut-4-sht-2756435945/).
 1. Багажник
    1. Купить сумку-органайзер в багажник: [1](https://www.ozon.ru/product/organayzer-v-bagazhnik-dlya-avtomobilya-chernyy-iz-ekokozhi-50h22h35-1799655547/)
    1. Купить дополнительное освещение багажника:
@@ -199,7 +201,7 @@
                                           [2](https://www.ozon.ru/product/autel-mx-sensor-dlya-seres-dongfeng-evolute-forthing-3641050-fs01-rezinovyy-1sht-2640300256/)
 1. Кузов
    1. Купить и заменить [рамку для госномера](https://www.ozon.ru/category/ramki-dlya-nomerov-8625/avs-30931634/) на более качественную, без рекламы автосалона.
-      Возможно, придётся докупить болты нужной длины.
+      Возможно, придётся докупить [полимерные болты](https://www.ozon.ru/product/nabor-bolty-vinty-polimernye-belye-dlya-krepleniya-gos-nomera-k-ramke-komplekt-krepezha-nomernyh-1616103378/) нужной длины.
    1. Сделать антикоррозийную обработку
       [днища и скрытых полостей](https://антикор.рф/products-and-services/7/),
       [антикор и шумоизоляцию подкрылок](https://антикор.рф/products-and-services/11/),
