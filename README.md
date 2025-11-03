@@ -198,7 +198,8 @@
        [2](https://mosautoshina.ru/catalog/tyre/windforce/arctic-power/235-50-19-103-T-XL-/).
    * Купить [датчики давления в шинах](https://alltpms.ru/katalog/base-m/evolute/evolute-i-space).
      Каталожный номер AUTEL 3641050-FS01: [1](https://alltpms.ru/katalog/datchiki-koncerna/dk-datchik-davlenia-v-shinah-3641050-fs01-345),
-                                          [2](https://www.ozon.ru/product/autel-mx-sensor-dlya-seres-dongfeng-evolute-forthing-3641050-fs01-rezinovyy-1sht-2640300256/)
+                                          [2](https://www.ozon.ru/product/autel-mx-sensor-dlya-seres-dongfeng-evolute-forthing-3641050-fs01-rezinovyy-1sht-2640300256/),
+                                          [3](https://ozon.ru/t/DywpuRy)
 1. Кузов
    1. Купить и заменить [рамку для госномера](https://www.ozon.ru/category/ramki-dlya-nomerov-8625/avs-30931634/) на более качественную, без рекламы автосалона.
       Возможно, придётся докупить [полимерные болты](https://www.ozon.ru/product/nabor-bolty-vinty-polimernye-belye-dlya-krepleniya-gos-nomera-k-ramke-komplekt-krepezha-nomernyh-1616103378/) нужной длины.
