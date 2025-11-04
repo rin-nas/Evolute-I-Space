@@ -143,6 +143,7 @@
 1. Проверить надёжность крепления зеркала заднего вида (покрутите, были случаи, когда в ходе эксплуатации, оно даже отваливалось);
 1. Проверить целостность USB порта для видеорегистратора в переднем бардачке перед пассажирским сидением (может быть не вставлен, провален внутрь, замят);
 1. Проверить работу голосового помощника (были случаи, когда он не работает совсем);
+1. Проверить работоспособность розетки на 12V (были случаи, когла после использования электрического насоса (компрессора) перегорал предохранитель);
 1. Проверить стабильность работы и подключение к сети Wi-Fi и bluetooth (были случаи, когда подключается и потом через некоторое время отключается);
 1. Проверить наличие пластиковой крышки над двигателем (были случаи её отсутствия);
 1. Проверить наличие штатного зарядного устройства (некоторым забыли положить на заводе);
@@ -176,11 +177,12 @@
       Штатная лампочка сбоку почти ничего не освещает (так на многих автомобилях).
    1. Купить выдвижную шторку в багажник: [1](https://www.ozon.ru/product/vydvizhnaya-shtorka-bagazhnika-dlya-evolute-i-speac-7-mest-2022-brezent-ustoychivaya-k-2980369211/?from_sku=2980369760&oos_search=false)
 1. Зарядка-разрядка тяговой батареи
-   * Купить [разрядное устройство](https://www.ozon.ru/product/razryadnoe-ustroystvo-v2l-dlya-avtomobilnogo-kabelya-adaptera-elektromobilya-s-evropeyskoy-1862988930/?reviewsVariantMode=2)
+   * Купить [разрядное устройство](https://www.ozon.ru/product/razryadnoe-ustroystvo-v2l-dlya-avtomobilnogo-kabelya-adaptera-elektromobilya-s-evropeyskoy-1862988930/)
      для возможности запитывать от автомобиля бытовые электрические приборы мощностью до 3500 ватт.
    * Купить [зарядный кабель разъёма Type2](https://www.ozon.ru/product/kabel-zaryadnyy-dlya-elektromobilya-type2-type2-3-fazy-32a-22kvt-5m-2860024916/).
      для возможности заряжать автомобиль на [станциях зарядки автомобилей](https://yandex.ru/maps/213/moscow/category/electric_car_charging_station/43752131937/) с отсутствующем кабелем Type2.
-   * Купить переходник [с разъёма GB/T на Type2](https://aliexpress.ru/item/1005009264044405.html?sku_id=12000048528149965&spm=a2g2w.productlist.search_results.5.73a36516VY3gsT) для возможности заряжать автомобиль от кабеля с разъёмом GB/T, когда Type2 занят.
+   * Купить переходник [с разъёма GB/T на Type2](https://aliexpress.ru/item/1005009264044405.html?sku_id=12000048528149965&spm=a2g2w.productlist.search_results.5.73a36516VY3gsT)
+     для возможности заряжать автомобиль от кабеля с разъёмом GB/T, когда Type2 занят.
    * Купить зарядное утройство от бытовой розетки 220V:
      [1](https://www.ozon.ru/product/zaryadnoe-ustroystvo-dlya-elektromobilya-type-2-3-5-kvt-16a-220v-kabel-5-m-sumka-2128792361/),
      [2](https://www.ozon.ru/product/zaryadnoe-ustroystvo-dlya-elektromobilya-type2-220v-16a-2839676179/),
@@ -238,6 +240,7 @@
       [1](https://rem.ru/catalog/parts/h150021000ab-19948069/),
       [2](https://www.ozon.ru/product/filtr-maslyanyy-w6103-mann-filter-haval-m6-haval-m6-mitsubisi-outlender-lanser-mitsubishi-1937268081/?at=r2t4EKqBPIgV0OJDU15qxKQI4gJMGmCZwZlrDc8BAmj2&tab=reviews)
 1. Фильтр салонный: [1](https://www.wildberries.ru/catalog/350858545/detail.aspx)
+1. Фильтр воздушный для двигателя, каталожный номер [`1109120-SZ02`](https://ya.ru/search/?text=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80+%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D1%8B%D0%B9+%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8F+%221109120-SZ02%22)
 1. Щётки стеклоочистителя:
    [1](https://aliexpress.ru/item/1005008317283442.html?businessType=ProductDetail&sku_id=12000044590229590&spreadType=socialShare&srcSns=sns_More&utm_medium=sharing),
    [2](https://www.ozon.ru/search/?text=evolute+i-space+%D1%89%D1%91%D1%82%D0%BA%D0%B0+%D1%81%D1%82%D0%B5%D0%BA%D0%BB%D0%BE%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8F&from_global=true).\
@@ -283,6 +286,7 @@
 1. Завис экран или планшет, что делать?\
    Перезагрузите, зажав на 20 секунд на руле одновременно нижние клавиши справа и слева от центра руля.
 1. Дверь багажника можно ещё поднять руками на 10-12 см., чтобы высокие люди под ним уместились.
+1. Размер шпилек на колёса: М12х1.25х45. Посадочное 13 мм (можно взять немного больше 13.3).
 
 
 ## Актуальность этой страницы
