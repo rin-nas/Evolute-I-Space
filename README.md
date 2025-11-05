@@ -263,7 +263,8 @@
 1. [Каталог запчастей](https://rem.ru/catalog/parts/evolute/i-space/i-space-2023/)
    1. Фильтр масляный
       [1](https://rem.ru/catalog/parts/h150021000ab-19948069/),
-      [2](https://www.ozon.ru/product/filtr-maslyanyy-w6103-mann-filter-haval-m6-haval-m6-mitsubisi-outlender-lanser-mitsubishi-1937268081/?at=r2t4EKqBPIgV0OJDU15qxKQI4gJMGmCZwZlrDc8BAmj2&tab=reviews)
+      [2](https://www.ozon.ru/product/filtr-maslyanyy-w6103-mann-filter-haval-m6-haval-m6-mitsubisi-outlender-lanser-mitsubishi-1937268081/?at=r2t4EKqBPIgV0OJDU15qxKQI4gJMGmCZwZlrDc8BAmj2&tab=reviews).
+      Подходит `Mann W610/3` и его аналоги, например `Marshall ML3030`.
 1. Фильтр салонный: [1](https://www.wildberries.ru/catalog/350858545/detail.aspx)
 1. Фильтр воздушный для двигателя, каталожный номер [`1109120-SZ02`](https://ya.ru/search/?text=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80+%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D1%8B%D0%B9+%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8F+%221109120-SZ02%22)
 1. Щётки стеклоочистителя:
