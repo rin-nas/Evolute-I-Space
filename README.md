@@ -218,6 +218,7 @@
    * Купить шины для автомобиля:
        [1](https://koleso.ru/auto/evolute/i-space/suv-2023-2025/1-5-hybrid/),
        [2](https://mosautoshina.ru/auto/evolute/i-space/2025/phev-/).
+       С учётом увеличенной массы кроссовера на шине нужно усиление XL.
      Из результатов поиска, выберите, например, шину R19 зимнюю шипованную:
        [1](https://koleso.ru/catalog/tyres/sailun/ice-blazer-wst3-11506/sailun-ice-blazer-wst3-235-50r19-t103--0---shipovannaya/),
        [2](https://mosautoshina.ru/catalog/tyre/windforce/arctic-power/235-50-19-103-T-XL-/),
