@@ -220,7 +220,8 @@
        [2](https://mosautoshina.ru/auto/evolute/i-space/2025/phev-/).
      Из результатов поиска, выберите, например, шину R19 зимнюю шипованную:
        [1](https://koleso.ru/catalog/tyres/sailun/ice-blazer-wst3-11506/sailun-ice-blazer-wst3-235-50r19-t103--0---shipovannaya/),
-       [2](https://mosautoshina.ru/catalog/tyre/windforce/arctic-power/235-50-19-103-T-XL-/).
+       [2](https://mosautoshina.ru/catalog/tyre/windforce/arctic-power/235-50-19-103-T-XL-/),
+       [3](https://mosautoshina.ru/catalog/tyre/venom-power/ice-hunter/235-50-19-103-H-XL-/).
    * Купить [датчики давления в шинах](https://alltpms.ru/katalog/base-m/evolute/evolute-i-space).
      Каталожный номер AUTEL 3641050-FS01: [1](https://alltpms.ru/katalog/datchiki-koncerna/dk-datchik-davlenia-v-shinah-3641050-fs01-345),
                                           [2](https://www.ozon.ru/product/autel-mx-sensor-dlya-seres-dongfeng-evolute-forthing-3641050-fs01-rezinovyy-1sht-2640300256/),
