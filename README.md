@@ -239,7 +239,7 @@
                                           [2](https://www.ozon.ru/product/autel-mx-sensor-dlya-seres-dongfeng-evolute-forthing-3641050-fs01-rezinovyy-1sht-2640300256/),
                                           [3](https://ozon.ru/t/DywpuRy)
 1. Кузов
-   1. Купить и заменить [рамку для госномера](https://www.ozon.ru/category/ramki-dlya-nomerov-8625/avs-30931634/) на более качественную, без рекламы автосалона.
+   1. Заменить [рамку для госномера](https://www.ozon.ru/category/ramki-dlya-nomerov-8625/avs-30931634/) на более качественную, без рекламы автосалона.
       Возможно, придётся докупить [полимерные болты](https://www.ozon.ru/product/nabor-bolty-vinty-polimernye-belye-dlya-krepleniya-gos-nomera-k-ramke-komplekt-krepezha-nomernyh-1616103378/) нужной длины.
    1. Установить [брызговики](https://www.ozon.ru/product/zashchita-vneshnih-chastey-avtomobilya-4-sht-1766051192/).
    1. Сделать антикоррозийную обработку:
