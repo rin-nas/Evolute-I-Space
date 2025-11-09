@@ -222,7 +222,8 @@
 1. Второй комлект дисков и/или шин
    * Купить диски для автомобиля:
      [1](https://koleso.ru/auto/disks/evolute/i-space/suv-2023-2025/1-5-hybrid/) (поставьте флаг "строгий подбор"),
-     [2](https://mosautoshina.ru/auto/evolute/i-space/2025/phev-/).
+     [2](https://mosautoshina.ru/auto/evolute/i-space/2025/phev-/),
+     [3](https://autoshini.ru/shop/diski-5x110-r18-all-all?dia=67.1).
      Из результатов поиска, выберите, например, [диск R18](https://koleso.ru/catalog/discs/kik/porter-ks906-299/kik-porter-ks906-7-5x18-5x110-et40-dia67-1-almaz-chernyiy/).
    * Купить шины для автомобиля:
        [1](https://koleso.ru/auto/evolute/i-space/suv-2023-2025/1-5-hybrid/),
@@ -232,6 +233,7 @@
        [1](https://koleso.ru/catalog/tyres/sailun/ice-blazer-wst3-11506/sailun-ice-blazer-wst3-235-50r19-t103--0---shipovannaya/),
        [2](https://mosautoshina.ru/catalog/tyre/windforce/arctic-power/235-50-19-103-T-XL-/),
        [3](https://mosautoshina.ru/catalog/tyre/venom-power/ice-hunter/235-50-19-103-H-XL-/).
+     Шинный калькулятор: [1](https://mosautoshina.ru/calc/), [2](https://shina-calc.ru/).
    * Купить [датчики давления в шинах](https://alltpms.ru/katalog/base-m/evolute/evolute-i-space).
      Каталожный номер AUTEL 3641050-FS01: [1](https://alltpms.ru/katalog/datchiki-koncerna/dk-datchik-davlenia-v-shinah-3641050-fs01-345),
                                           [2](https://www.ozon.ru/product/autel-mx-sensor-dlya-seres-dongfeng-evolute-forthing-3641050-fs01-rezinovyy-1sht-2640300256/),
