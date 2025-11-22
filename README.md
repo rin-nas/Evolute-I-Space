@@ -204,7 +204,9 @@
         [1](https://www.ozon.ru/product/nakladka-na-porogi-4-sht-2493598337/),
         [2](https://www.ozon.ru/product/karbonovye-nakladki-nakleyki-na-porogi-dlya-zashchity-avto-evolute-evolyut-4-sht-2756435945/).
 1. Багажник
-   1. Купить сумку-органайзер в багажник: [1](https://www.ozon.ru/product/sumka-organayzer-v-bagazhnik-avtomobilya-50h35h25sm-1698630629/)
+   1. Купить сумку-органайзер в багажник:
+      [1](https://www.ozon.ru/product/sumka-organayzer-v-bagazhnik-avtomobilya-50h35h25sm-1698630629/),
+      [2](https://www.ozon.ru/product/sumka-organayzer-v-bagazhnik-avtomobilya-50h35h25sm-1698630795/). 
    1. Купить дополнительное освещение багажника:
       [1](https://www.ozon.ru/product/lenta-svetodiodnaya-dlya-avtomobilya-1-sht-art-dd111-1754252806/),
       [2](https://www.wildberries.ru/catalog/464621392/detail.aspx?size=653074730).
