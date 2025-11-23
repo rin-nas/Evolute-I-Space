@@ -245,7 +245,7 @@
 1. Кузов
    1. Заменить [рамку для госномера](https://www.ozon.ru/category/ramki-dlya-nomerov-8625/avs-30931634/) на более качественную, без рекламы автосалона.
       Возможно, придётся докупить [полимерные болты](https://www.ozon.ru/product/nabor-bolty-vinty-polimernye-belye-dlya-krepleniya-gos-nomera-k-ramke-komplekt-krepezha-nomernyh-1616103378/) нужной длины.
-   1. Установить [брызговики](https://www.ozon.ru/product/zashchita-vneshnih-chastey-avtomobilya-4-sht-1766051192/).
+   1. Установить брызговики: [чёрные](https://www.ozon.ru/product/zashchita-vneshnih-chastey-avtomobilya-4-sht-1766051192/), [белые](https://ali.click/yzwkqk).
    1. Сделать антикоррозийную обработку:
       * днища и скрытых полостей: [1](https://антикор.рф/products-and-services/7/), [2](https://korstop.ru/)
       * антикор и шумоизоляцию подкрылок: [1](https://антикор.рф/products-and-services/11/), [2](https://korstop.ru/)
