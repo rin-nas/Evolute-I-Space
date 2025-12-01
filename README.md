@@ -8,7 +8,7 @@
 Автомобиль приводит в движение [электромотор, бензиновый мотор](https://power.seres.cn/#/productCenterDetails?describe=SHT330A) только заряжает тяговую батарею. 
 
 Сделан китайским автомобильным концерном [Dongfeng](https://en.wikipedia.org/wiki/Dongfeng_Motor_Corporation) и [Seres](https://en.seres.cn/).
-В Липецке налажена крупноузловая сборка.
+В городе Липецк налажена крупноузловая сборка на заводе [Моторинвест](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82).
 
 Альтернативные названия и видео обзоры:
 1. [DFSK E5 Plus](https://www.youtube.com/watch?v=5jXeu-4Dv-c)
