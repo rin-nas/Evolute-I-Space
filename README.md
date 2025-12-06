@@ -266,6 +266,8 @@
       * антикор выхлопной системы: [1](https://антикор.рф/products-and-services/224/), [2](https://korstop.ru/)\
       После антикоррозионной обработки в салоне будет вонять 1 месяц.
       Хорошие мастерские сделают фотоотчёт о проделанной работе в Telegram или WhatsApp.
+      [Антикоррозийные покрытия](https://www.ozon.ru/category/antikorroziynye-pokrytiya-38651/) для самостоятельной обработки:
+      [1](https://www.ozon.ru/product/antikorroziynoe-pokrytie-dlya-avtomobilya-napylyaemyy-antikor-fortex-mastika-c-5502-1550252576/).
    1. Установить защитную сетку на переднюю декоративную решётку (для защиты решётки радиатора охлаждения двигателя от повреждений камнями):
       [со снятием бампера](https://антикор.рф/products-and-services/10/),
       без снятия бампера (но лишний вес)
