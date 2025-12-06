@@ -274,7 +274,7 @@
    1. Установить на кромки дверей и передней части капота [U-образную ленту](https://www.ozon.ru/product/universalnaya-zashchita-kromki-dverey-avtomobilya-u-tipa-uplotnitel-dvernyh-proemov-mashiny-1113783709/reviews/?ruuid=019af539-6763-7377-8b1b-de26728f1fd1) для защиты от сколов и царапин при ударах в момент открывания.
    1. Установить под днищем алюминивую [защиту картера двигателя NLZ](https://www.ozon.ru/product/zk-i-krepezh-podhodit-dlya-evolute-i-space-2023-3-mm-1-5-gibrid-cvt-fwd-evolyut-ay-speys-2942971229/reviews?ruuid=019ad09a-3419-7a7a-ae9a-64cbcb0569f6) от повреждений (там большое сквозное отвестие).
       Оригинальный каталожный номер запчасти [`ESPNL001EP`](https://ya.ru/search/?text=ESPNL001EP+%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0).
-      Оригинальная [защита картера двигателя и тяговой батареи](https://www.ozon.ru/product/zashchita-vneshnih-chastey-avtomobilya-2-sht-2967979402/) (цена очень завышена).
+      Оригинальная железная [защита картера двигателя и тяговой батареи](https://www.ozon.ru/product/stnd-zashchita-vneshnih-chastey-avtomobilya-2-sht-1996824106/).
    1. Установить под днищем [защиту тяговой батареи](https://www.drive2.ru/b/701071704687919722/), т.к. между двигателем батареей много проводов и шлангов.
    1. Сделать [шумоизоляцию](https://www.shumoff-moscow.ru/).
       Делать шумоизоляцию днища, возможно, нет смысла, т.к. от шума защищает тяговая батарея под днищем.
