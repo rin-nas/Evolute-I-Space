@@ -204,7 +204,7 @@
 1. Зарегистрировать автомобиль в ГИБДД, получить гос. номер. Госпошлина 4500 руб. Для экономии времени записаться в ГИБДД лучше через сайт Госуслуги.
 1. Салон
    1. Купить напольные коврики (в комплект не входят):
-      [1](https://www.ozon.ru/product/kovriki-v-salon-avtomobilya-termoplastik-tpu-1-sht-1872745794/),
+      [1](https://www.ozon.ru/product/kovriki-v-salon-avtomobilya-termoplastik-tpu-1-sht-1872745794/reviews?ruuid=019a6498-8b14-7993-9e64-ad46df22ef92),
       [2](https://www.ozon.ru/product/vorsovye-avtomobilnye-kovriki-v-salon-klassik-dlya-evolute-i-space-1-gibrid-2023-n-v-zadniy-tselnyy-1535486767/?__rr=1&abt_att=1),
       [3](https://www.wildberries.ru/catalog/250239525/detail.aspx),
       [4](https://autokovrik.ru/kovriki/for-evolute-i-space-1071/2317)
@@ -215,6 +215,8 @@
    1. Купить декоративные накладки на пороги для красоты и дополнительной защиты ЛКП:
         [1](https://www.ozon.ru/product/nakladka-na-porogi-4-sht-2493598337/),
         [2](https://www.ozon.ru/product/karbonovye-nakladki-nakleyki-na-porogi-dlya-zashchity-avto-evolute-evolyut-4-sht-2756435945/).
+   1. Купить на зиму [подушки на кресла](https://www.ozon.ru/product/podushka-na-stul-lly230623510-826-50x50-sm-1814227122/reviews/?ruuid=019aeafa-43e9-71cd-9c49-ea05e7d4aa07),
+      чтобы попа не мёрзла, пока кресла прогреваются.
 1. Багажник
    1. Купить сумку-органайзер в багажник:
       [1](https://www.ozon.ru/product/sumka-organayzer-v-bagazhnik-avtomobilya-50h35h25sm-1698630629/),
@@ -262,7 +264,7 @@
       * днища и скрытых полостей: [1](https://антикор.рф/products-and-services/7/), [2](https://korstop.ru/)
       * антикор и шумоизоляцию подкрылок: [1](https://антикор.рф/products-and-services/11/), [2](https://korstop.ru/)
       * антикор выхлопной системы: [1](https://антикор.рф/products-and-services/224/), [2](https://korstop.ru/)\
-      После антикоррозионной обработки в салоне будет вонять несколько недель.
+      После антикоррозионной обработки в салоне будет вонять 1 месяц.
       Хорошие мастерские сделают фотоотчёт о проделанной работе в Telegram или WhatsApp.
    1. Установить защитную сетку на переднюю декоративную решётку (для защиты решётки радиатора охлаждения двигателя от повреждений камнями):
       [со снятием бампера](https://антикор.рф/products-and-services/10/),
@@ -270,7 +272,7 @@
         [1](https://www.ozon.ru/product/zashchita-vneshnih-chastey-avtomobilya-1-sht-3010503826/),
         [2](https://www.ozon.ru/product/zashchita-vneshnih-chastey-avtomobilya-1-sht-3040426134/).
    1. Установить на кромки дверей и передней части капота [U-образную ленту](https://www.ozon.ru/product/universalnaya-zashchita-kromki-dverey-avtomobilya-u-tipa-uplotnitel-dvernyh-proemov-mashiny-1113783709/reviews/?ruuid=019af539-6763-7377-8b1b-de26728f1fd1) для защиты от сколов и царапин при ударах в момент открывания.
-   1. Установить под днищем алюминивую [защиту картера двигателя NLZ](https://www.ozon.ru/product/zk-i-krepezh-podhodit-dlya-evolute-i-space-2023-3-mm-1-5-gibrid-cvt-fwd-evolyut-ay-speys-2942971229/) от повреждений (там большое сквозное отвестие).
+   1. Установить под днищем алюминивую [защиту картера двигателя NLZ](https://www.ozon.ru/product/zk-i-krepezh-podhodit-dlya-evolute-i-space-2023-3-mm-1-5-gibrid-cvt-fwd-evolyut-ay-speys-2942971229/reviews?ruuid=019ad09a-3419-7a7a-ae9a-64cbcb0569f6) от повреждений (там большое сквозное отвестие).
       Оригинальный каталожный номер запчасти [`ESPNL001EP`](https://ya.ru/search/?text=ESPNL001EP+%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0).
       Оригинальная [защита картера двигателя и тяговой батареи](https://www.ozon.ru/product/zashchita-vneshnih-chastey-avtomobilya-2-sht-2967979402/) (цена очень завышена).
    1. Установить под днищем [защиту тяговой батареи](https://www.drive2.ru/b/701071704687919722/), т.к. между двигателем батареей много проводов и шлангов.
