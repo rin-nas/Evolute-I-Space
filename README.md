@@ -273,7 +273,7 @@
 1. Зарядка-разрядка тяговой батареи
    * Купить [разрядное устройство](https://www.ozon.ru/product/razryadnoe-ustroystvo-v2l-dlya-avtomobilnogo-kabelya-adaptera-elektromobilya-s-evropeyskoy-1862988930/)
      для возможности запитывать от автомобиля бытовые электрические приборы мощностью до 3500 ватт.
-   * Купить [зарядный кабель разъёма Type2](https://www.ozon.ru/product/kabel-zaryadnyy-dlya-elektromobilya-type2-type2-3-fazy-32a-22kvt-5m-2860024916/).
+   * Купить [зарядный кабель разъёма Type2](https://www.ozon.ru/product/kabel-zaryadnyy-dlya-elektromobilya-type2-type2-3-fazy-32a-22kvt-5m-2860024916/)
      для возможности заряжать автомобиль на [станциях зарядки автомобилей](https://yandex.ru/maps/213/moscow/category/electric_car_charging_station/43752131937/) с отсутствующем кабелем Type2.
    * Купить переходник [с разъёма GB/T на Type2](https://aliexpress.ru/item/1005009264044405.html?sku_id=12000048528149965&spm=a2g2w.productlist.search_results.5.73a36516VY3gsT)
      для возможности заряжать автомобиль от кабеля с разъёмом GB/T, когда Type2 занят.
