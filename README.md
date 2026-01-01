@@ -336,13 +336,20 @@
 
 ## Где заряжать автомобиль?
 
-Используется [разъём стандарта Type2](https://sitronics-electro.com/ev_connectors_standarts_guide), мощность зарядки 7 кВт.
+1. На станциях зарядки автомобилей.
+   Используется [разъём стандарта Type2](https://sitronics-electro.com/ev_connectors_standarts_guide).
+   Мощность зарядки 7 кВт.
+   На зарядку от 20% до 100% нужно примерно 3-4 часа.
+1. В домашних условиях от обычной бытовой розетки с заземлением (на станциях зарядки автомобилей тоже бывает).
+   Используется [разъём стандарта Schuko](https://ru.wikipedia.org/wiki/Schuko).   
+   Мощность зарядки 3.5 кВт.
+   На зарядку от 20% до 100% нужно примерно 6-8 часов.
 
 Карта зарядок для электромобилей:
 1. [2charges](https://2chargers.net/) (мобильное приложение для смартфона)
-1. [Яндекс заправки](https://zapravki.yandex.ru/electro) (мобильное приложение для смартфона)
 1. [Яндекс карты](https://yandex.ru/maps/213/moscow/category/electric_car_charging_station/)
 1. [2ГИС](https://2gis.ru/mytishchi/search/%D0%A1%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8%20%D0%B7%D0%B0%D1%80%D1%8F%D0%B4%D0%BA%D0%B8%20%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B5%D0%B9)
+1. [Яндекс заправки](https://zapravki.yandex.ru/electro) (мобильное приложение для смартфона)
 
 ## Запчасти (расходники)
 
