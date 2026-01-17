@@ -16,8 +16,7 @@
 1. [DFSK E5 Plus](https://www.youtube.com/watch?v=5jXeu-4Dv-c)
 1. [Seres Landian E5 Plus](https://www.youtube.com/watch?v=QbyqdKgfQrQ)
 
-Выпускается с 2023 года, обновлённый (глубокий рестайлинг) — с 2025 года.\
-Обзоры: [1](https://китайские-автомобили.рф/2025/09/28/evolute-i-space-2025/amp/).
+Выпускается с 2023 года, обновлённый (глубокий рестайлинг) — с 2025 года.
 
 Официальный сайт и страница:
 1. https://www.evolute.ru/models/i-space-new (Россия)
@@ -36,6 +35,13 @@
 1. Для семей детьми.
 1. Для поездок преимущественно в городе или пригороде.
 1. В идеале имеется частный дом для возможности заряжать автомобиль от бытовой розетки по ночам.
+
+## Статьи
+
+1. [Как обновили самый доступный гибрид в России. Тестируем Evolute i-Space 2025](https://китайские-автомобили.рф/2025/09/28/evolute-i-space-2025/amp/)
+1. [Больше чем рестайлинг: первый тест обновлённого российского гибрида Evolute i-Space](https://auto.ru/mag/article/mesta-s-plyusom-pervyy-test-obnovlyonnogo-gibrida-evolute-i-space/)
+1. [Кто уедет дальше: супертест 11 подключаемых гибридов на реальный запас хода](https://auto.ru/mag/article/supertest-podklyuchaemyh-gibridov-na-realnyy-zapas-hoda/) \
+   Evolute i-Space — 3-e место!
 
 ## Габариты
 
@@ -308,6 +314,7 @@
       для возможности сохранять видеофайлы встроенным видеорегистратором.
       Вставлять флешку нужно в разъём, который находится в бардачке напротив переднего пассажирского сидения.
       При наличии карты памяти формата MicroSD (не ниже class 10) купите только [картридер](https://www.ozon.ru/product/kartrider-usb-3-2-micro-sd-perehodnik-dlya-fleshkart-1801251001/).
+      Отформатировать флешку можно на файловую систему FAT32 или NTFS.
    1. Купить декоративные накладки на пороги для красоты и дополнительной защиты ЛКП:
         [1](https://www.ozon.ru/product/nakladka-na-porogi-4-sht-2493598337/),
         [2](https://www.ozon.ru/product/karbonovye-nakladki-nakleyki-na-porogi-dlya-zashchity-avto-evolute-evolyut-4-sht-2756435945/).
