@@ -375,7 +375,7 @@
      [1](https://www.ozon.ru/product/zaryadnoe-ustroystvo-dlya-elektromobilya-type-2-3-5-kvt-16a-220v-kabel-5-m-sumka-2128792361/),
      [2](https://www.ozon.ru/product/zaryadnoe-ustroystvo-dlya-elektromobilya-type2-220v-16a-2839676179/),
      при его отсутствии (должно быть в комплекте с автомобилем).
-   * Купить сетевой кабельный удлинитель: [1](https://www.ozon.ru/product/kabelnyy-udlinitel-ssa-27m-3-2-5-1916527032/).
+   * Купить силовой сетевой морозостойкий удлинитель с заземлением: [1](https://www.ozon.ru/product/udlinitel-silovoy-30-metrov-kgtp-hl-3h2-5-morozostoykiy-4000vt-na-metallicheskoy-katushke-ip44-178581320/).
 1. Второй комлект дисков и/или шин
    * Купить диски для автомобиля:
      [1](https://koleso.ru/auto/disks/evolute/i-space/suv-2023-2025/1-5-hybrid/) (поставьте флаг "строгий подбор"),
