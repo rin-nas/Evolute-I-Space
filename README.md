@@ -42,6 +42,7 @@
 1. [Больше чем рестайлинг: первый тест обновлённого российского гибрида Evolute i-Space](https://auto.ru/mag/article/mesta-s-plyusom-pervyy-test-obnovlyonnogo-gibrida-evolute-i-space/)
 1. [Кто уедет дальше: супертест 11 подключаемых гибридов на реальный запас хода](https://auto.ru/mag/article/supertest-podklyuchaemyh-gibridov-na-realnyy-zapas-hoda/) \
    Evolute i-Space — 3-e место!
+1. [Вся правда про народный гибрид Evolute i-Space 2025](https://rutube.ru/video/942df3903d747e9395f40d95c032cf5e/). Обзор от автоблогера Михаила Кульдяева.
 
 ## Габариты
 
