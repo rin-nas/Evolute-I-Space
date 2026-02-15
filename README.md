@@ -16,7 +16,7 @@
 1. [DFSK E5 Plus](https://www.youtube.com/watch?v=5jXeu-4Dv-c)
 1. [Seres Landian E5 Plus](https://www.youtube.com/watch?v=QbyqdKgfQrQ)
 
-Выпускается с 2023 года, обновлённый (глубокий рестайлинг) — с 2025 года.
+Выпускается с 2023 года, обновлённый (глубокий рестайлинг) — с осени 2025 года.
 
 Официальный сайт и страница:
 1. https://www.evolute.ru/models/i-space-new (Россия)
