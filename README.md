@@ -49,6 +49,7 @@
 ## Видео
 
 1. [Сравнение с Geely Galaxy Starship 7 (EX5 EM-i)](https://rutube.ru/video/277fe4c7119038457a191786b676023c/)
+2. [Evolute I-Space 4x4: краткий обзор задней подвески и двигателя](https://rutube.ru/video/78543e0ca16eda900ade71fd076ee235/)
 
 ## Габариты
 
