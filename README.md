@@ -48,7 +48,7 @@
 
 ## Видео
 
-1. [Сравнение с Geely Galaxy Starship 7 (EX5 EM-i)]()
+1. [Сравнение с Geely Galaxy Starship 7 (EX5 EM-i)](https://rutube.ru/video/277fe4c7119038457a191786b676023c/)
 
 ## Габариты
 
