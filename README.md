@@ -40,17 +40,20 @@
 
 ## Статьи
 
-1. [Как обновили самый доступный гибрид в России. Тестируем Evolute i-Space 2025](https://китайские-автомобили.рф/2025/09/28/evolute-i-space-2025/amp/)
-1. [Больше чем рестайлинг: первый тест обновлённого российского гибрида Evolute i-Space](https://auto.ru/mag/article/mesta-s-plyusom-pervyy-test-obnovlyonnogo-gibrida-evolute-i-space/)
-1. [Кто уедет дальше: супертест 11 подключаемых гибридов на реальный запас хода](https://auto.ru/mag/article/supertest-podklyuchaemyh-gibridov-na-realnyy-zapas-hoda/) \
+1. [Как обновили самый доступный гибрид в России. Тестируем Evolute i-Space 2025](https://китайские-автомобили.рф/2025/09/28/evolute-i-space-2025/amp/) (китайские-автомобили.рф)
+1. [Больше чем рестайлинг: первый тест обновлённого российского гибрида Evolute i-Space](https://auto.ru/mag/article/mesta-s-plyusom-pervyy-test-obnovlyonnogo-gibrida-evolute-i-space/) (Авто.Ру)
+1. [Кто уедет дальше: супертест 11 подключаемых гибридов на реальный запас хода](https://auto.ru/mag/article/supertest-podklyuchaemyh-gibridov-na-realnyy-zapas-hoda/) (Авто.Ру) \
    Evolute i-Space — 3-e место!
-1. [Вся правда про народный гибрид Evolute i-Space 2025](https://rutube.ru/video/942df3903d747e9395f40d95c032cf5e/). Обзор от автоблогера Михаила Кульдяева.
+1. [Вся правда про народный гибрид Evolute i-Space 2025](https://rutube.ru/video/942df3903d747e9395f40d95c032cf5e/) (Михаил Кульдяев)
+1. [Первый тест-драйв обновленного Evolute i-Space](https://www.drom.ru/info/test-drive/evolute-i-space-100846.html) (Дром)
+1. [Первый тест Evolute i-Space: что получила и что потеряла полноприводная версия отечественного гибрида](https://www.drom.ru/info/test-drive/evolute-i-space-102054.html) (Дром)
 
 ## Видео
 
-1. [Сравнение с Geely Galaxy Starship 7 (EX5 EM-i)](https://rutube.ru/video/277fe4c7119038457a191786b676023c/)
-1. [Evolute i-Space: сварка, окраска, мелкоузловая сборка](https://rutube.ru/video/fd0bbbca90db189421c9f9a6cadd96cf/) 
-1. [Evolute I-Space 4x4: краткий обзор задней подвески и двигателя](https://rutube.ru/video/78543e0ca16eda900ade71fd076ee235/)
+1. [Сравнение с Geely Galaxy Starship 7 (EX5 EM-i)](https://rutube.ru/video/277fe4c7119038457a191786b676023c/) (Autospot)
+1. [Evolute i-Space: сварка, окраска, мелкоузловая сборка / Эволют Ай-Спейс](https://rutube.ru/video/fd0bbbca90db189421c9f9a6cadd96cf/) (За рулём)
+1. Evolute I-Space полный привод (4x4)
+   1. [Краткий обзор задней подвески и двигателя](https://rutube.ru/video/78543e0ca16eda900ade71fd076ee235/) (Электро Василий)
 
 ## Габариты
 
