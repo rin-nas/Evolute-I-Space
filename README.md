@@ -47,6 +47,8 @@
 1. [Вся правда про народный гибрид Evolute i-Space 2025](https://rutube.ru/video/942df3903d747e9395f40d95c032cf5e/) (Михаил Кульдяев)
 1. [Первый тест-драйв обновленного Evolute i-Space](https://www.drom.ru/info/test-drive/evolute-i-space-100846.html) (Дром)
 1. [Первый тест Evolute i-Space: что получила и что потеряла полноприводная версия отечественного гибрида](https://www.drom.ru/info/test-drive/evolute-i-space-102054.html) (Дром)
+1. [Обзоры и тесты Evolute i-Space New (2025)](https://dzen.ru/a/aYy0I2wd009T2vcb) (Дзен)
+1. [Обзоры и тесты Evolute i-Space New 4х4 (2026)](https://dzen.ru/a/aaMqFYq1ATnA3If4) (Дзен)
 
 ## Видео
 
