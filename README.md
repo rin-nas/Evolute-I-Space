@@ -42,9 +42,11 @@
 
 1. [Как обновили самый доступный гибрид в России. Тестируем Evolute i-Space 2025](https://китайские-автомобили.рф/2025/09/28/evolute-i-space-2025/amp/) (китайские-автомобили.рф)
 1. [Больше чем рестайлинг: первый тест обновлённого российского гибрида Evolute i-Space](https://auto.ru/mag/article/mesta-s-plyusom-pervyy-test-obnovlyonnogo-gibrida-evolute-i-space/) (Авто.Ру)
+1. [Подробный тест Evolute i-Space: все плюсы и минусы доступного гибрида российской сборки](https://auto.ru/mag/article/podrobnyy-test-evolute-ispace/) (Авто.Ру)
 1. [Кто уедет дальше: супертест 11 подключаемых гибридов на реальный запас хода](https://auto.ru/mag/article/supertest-podklyuchaemyh-gibridov-na-realnyy-zapas-hoda/) (Авто.Ру) \
    Evolute i-Space — 3-e место!
 1. [Вся правда про народный гибрид Evolute i-Space 2025](https://rutube.ru/video/942df3903d747e9395f40d95c032cf5e/) (Михаил Кульдяев)
+1. [Наша радость была бы не полной. Evolute i-Space 4WD. Новые и старые проблемв и сравнение с BYD](https://vk.com/video-73354773_456240576) (Михаил Кульдяев)
 1. [Первый тест-драйв обновленного Evolute i-Space](https://www.drom.ru/info/test-drive/evolute-i-space-100846.html) (Дром)
 1. [Первый тест Evolute i-Space: что получила и что потеряла полноприводная версия отечественного гибрида](https://www.drom.ru/info/test-drive/evolute-i-space-102054.html) (Дром)
 1. [Обзоры и тесты Evolute i-Space New (2025)](https://dzen.ru/a/aYy0I2wd009T2vcb) (Дзен)
