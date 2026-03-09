@@ -51,6 +51,7 @@
 1. [Первый тест Evolute i-Space: что получила и что потеряла полноприводная версия отечественного гибрида](https://www.drom.ru/info/test-drive/evolute-i-space-102054.html) (Дром)
 1. [Обзоры и тесты Evolute i-Space New (2025)](https://dzen.ru/a/aYy0I2wd009T2vcb) (Дзен)
 1. [Обзоры и тесты Evolute i-Space New 4х4 (2026)](https://dzen.ru/a/aaMqFYq1ATnA3If4) (Дзен)
+1. [Статьи по итогам трёхмесячного теста Evolute i-Space](https://www.drive2.ru/b/724817307557178926/) (ЗахароV)
 
 ## Видео
 
