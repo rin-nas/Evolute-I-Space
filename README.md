@@ -439,7 +439,10 @@
       [Антикоррозийные покрытия](https://www.ozon.ru/category/antikorroziynye-pokrytiya-38651/) для самостоятельной обработки:
       [1](https://www.ozon.ru/product/antikorroziynoe-pokrytie-dlya-avtomobilya-napylyaemyy-antikor-fortex-mastika-c-5502-1550252576/).
    1. Установить защитную сетку на переднюю декоративную решётку (для защиты решётки радиатора охлаждения двигателя от повреждений камнями):
-      со снятием бампера [1](https://антикор.рф/products-and-services/10/), [2](https://www.drive2.ru/l/731365998812218396/);
+      со снятием бампера?
+        [1](https://www.ozon.ru/category/avtoaksessuary-i-oborudovanie-8608/?category_was_predicted=true&deny_category_prediction=true&from_global=true&text=%D1%81%D0%B5%D1%82%D0%BA%D0%B0+%D0%B4%D0%BB%D1%8F+%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%8B+%D1%80%D0%B0%D0%B4%D0%B8%D0%B0%D1%82%D0%BE%D1%80%D0%B0),
+        [2](https://антикор.рф/products-and-services/10/),
+        [3](https://www.drive2.ru/l/731365998812218396/);
       без снятия бампера (но лишний вес)
         [1](https://www.ozon.ru/product/zashchita-vneshnih-chastey-avtomobilya-1-sht-3010503826/),
         [2](https://www.ozon.ru/product/zashchita-vneshnih-chastey-avtomobilya-1-sht-3040426134/).
