@@ -431,9 +431,9 @@
       Возможно, придётся докупить [полимерные болты](https://www.ozon.ru/product/nabor-bolty-vinty-polimernye-belye-dlya-krepleniya-gos-nomera-k-ramke-komplekt-krepezha-nomernyh-1616103378/) нужной длины.
    1. Установить брызговики: [чёрные](https://www.ozon.ru/product/zashchita-vneshnih-chastey-avtomobilya-4-sht-1766051192/), [~~белые~~](https://ali.click/yzwkqk) (эти не покупайте, они изначально чёрные и покрашены белой краской, которая держится ненадёжно и уже отлупляется на новой запчасти).
    1. Сделать антикоррозийную обработку:
-      * днища и скрытых полостей: [1](https://антикор.рф/products-and-services/7/), [2](https://korstop.ru/)
-      * антикор и шумоизоляцию подкрылок: [1](https://антикор.рф/products-and-services/11/), [2](https://korstop.ru/)
-      * антикор выхлопной системы: [1](https://антикор.рф/products-and-services/224/), [2](https://korstop.ru/)\
+      * днища и скрытых полостей: [1](https://антикор.рф/products-and-services/7/), [2](https://korstop.ru/), [3](https://topantikor.ru/)
+      * антикор и шумоизоляцию подкрылок: [1](https://антикор.рф/products-and-services/11/), [2](https://korstop.ru/), [3](https://topantikor.ru/)
+      * антикор выхлопной системы: [1](https://антикор.рф/products-and-services/224/), [2](https://korstop.ru/), [3](https://topantikor.ru/) \
       После антикоррозионной обработки в салоне будет вонять 1 месяц.
       Хорошие мастерские сделают фотоотчёт о проделанной работе в Telegram или WhatsApp.\
       [Антикоррозийные покрытия](https://www.ozon.ru/category/antikorroziynye-pokrytiya-38651/) для самостоятельной обработки:
@@ -488,9 +488,11 @@
 1. Фильтр салонный: [1](https://www.wildberries.ru/catalog/350858545/detail.aspx)
 1. Фильтр воздушный для двигателя, каталожный номер [`1109120-SZ02`](https://ya.ru/search/?text=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80+%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D1%8B%D0%B9+%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8F+%221109120-SZ02%22)
 1. Щётки стеклоочистителя:
-   [1](https://aliexpress.ru/item/1005008317283442.html?businessType=ProductDetail&sku_id=12000044590229590&spreadType=socialShare&srcSns=sns_More&utm_medium=sharing),
+   [1](https://www.ozon.ru/product/beskarkasnye-shchetki-evolute-i-space-12-2023-600-480-mm-3501385019/), 
    [2](https://www.ozon.ru/search/?text=evolute+i-space+%D1%89%D1%91%D1%82%D0%BA%D0%B0+%D1%81%D1%82%D0%B5%D0%BA%D0%BB%D0%BE%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8F&from_global=true).\
-   Тип крепления: Push button 19 мм.\
+   Тип крепления: [Side Button](https://www.google.com/search?q=%D1%89%D1%91%D1%82%D0%BA%D0%B8+%D1%81%D1%82%D0%B5%D0%BA%D0%BB%D0%BE%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8F%252C+%D1%82%D0%B8%D0%BF+%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%253A+%22Side+Button%22)
+   <s>[Push button](https://www.google.com/search?q=%D1%89%D1%91%D1%82%D0%BA%D0%B8+%D1%81%D1%82%D0%B5%D0%BA%D0%BB%D0%BE%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8F%252C+%D1%82%D0%B8%D0%BF+%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%253A+%22Push+Button%22) 19 мм, но есть [нюансы](https://www.drive2.ru/l/692320416764547164/)</s>. \
+   Для экономии денег и времени можно просто поменять резинку. \
    Размеры дворников: передний левый 600 мм, передний правый 450 мм, задний 300 мм.
 1. https://t.me/zapchasti_evolute
 1. [Задний стоп-сигнал](https://aliexpress.ru/item/1005009280810268.html?sku_id=12000048595223787). 
