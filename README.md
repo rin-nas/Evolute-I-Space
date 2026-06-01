@@ -260,7 +260,7 @@
 ## Законодательные ограничения на гибридные и электрические автомобили
 
 1. Проезд по Крымскому мосту автомобилям с тяговой батареей временно [запрещён](http://publication.pravo.gov.ru/document/2300202510310003?index=2).
-1. Ужесточение правил стоянки [в закрытых паркингах](https://auto.ru/mag/article/v-rossii-uzhestochat-pravila-parkovki-elektromobiley/) c 1 июня 2026,
+1. [Ужесточение правил стоянки](https://auto.ru/mag/article/v-rossii-uzhestochat-pravila-parkovki-elektromobiley/) в закрытых паркингах c 1 июня 2026,
    см. требования пожарной безопасности в [СП 551.1311500.2026](https://docs.cntd.ru/document/1317043172).
 
 ## Реальный расход топлива
