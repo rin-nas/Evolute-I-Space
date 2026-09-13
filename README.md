@@ -387,13 +387,17 @@
       [2](https://www.ozon.ru/product/vorsovye-avtomobilnye-kovriki-v-salon-klassik-dlya-evolute-i-space-1-gibrid-2023-n-v-zadniy-tselnyy-1535486767/?__rr=1&abt_att=1),
       [3](https://www.wildberries.ru/catalog/250239525/detail.aspx),
       [4](https://autokovrik.ru/kovriki/for-evolute-i-space-1071/2317)
-   1. Купить компактный USB флеш накопитель:
-      [1](https://www.ozon.ru/product/sandisk-128-gb-usb-flesh-nakopitel-ultra-fit-sdcz430-128g-ultra-fit-sdcz430-128g-usb-3-2-miniusb-do-1586087214/),
-      [2](https://www.ozon.ru/product/flesh-nakopitel-usb-3-0-128-gb-961160460/)
-      для возможности сохранять видеофайлы встроенным видеорегистратором.
+   1. Купить компактный `USB` флеш накопитель для возможности сохранять видеофайлы встроенным видеорегистратором.
       Вставлять флешку нужно в разъём, который находится в бардачке напротив переднего пассажирского сидения.
-      При наличии карты памяти формата MicroSD (не ниже class 10) купите только [картридер](https://www.ozon.ru/product/kartrider-usb-3-2-micro-sd-perehodnik-dlya-fleshkart-1801251001/).
-      Отформатировать флешку можно на файловую систему FAT32 или NTFS.
+      При наличии карты памяти формата `MicroSD` (не ниже `class 10`) купите только [картридер](https://www.ozon.ru/product/kartrider-usb-3-2-micro-sd-perehodnik-dlya-fleshkart-1801251001/).
+      Отформатировать флешку можно на файловую систему `FAT32` или `NTFS`.
+      
+      На крупных торговых площадках ([`Ozon`](https://www.ozon.ru/), [`WB`](https://www.wildberries.ru/) и др.)
+      есть риск купить накопители сомнительного качества (медленные, со сбоями в работе) и подделки.
+      Ещё торговые площадки взимают с продавцов комиссию за продажу товаров.
+      Настоящие накопители от `Sandisk` и `Transcend` стоят дорого.
+      Купить качественную и недорогую мини-флешку можно у [`White Square`](https://ws-store.ru/).
+      Выбирайте стандарт USB 3.0, размер **мини**, объём 64 GB или больше.
    1. Купить декоративные накладки на пороги для красоты и дополнительной защиты ЛКП:
         [1](https://www.ozon.ru/product/nakladka-na-porogi-4-sht-2493598337/),
         [2](https://www.ozon.ru/product/karbonovye-nakladki-nakleyki-na-porogi-dlya-zashchity-avto-evolute-evolyut-4-sht-2756435945/).
