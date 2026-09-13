@@ -62,7 +62,8 @@
 1. [Evolute i-Space: сварка, окраска, мелкоузловая сборка / Эволют Ай-Спейс](https://rutube.ru/video/fd0bbbca90db189421c9f9a6cadd96cf/) (За рулём)
 1. Evolute I-Space полный привод (4x4)
    1. [Краткий обзор задней подвески и двигателя](https://rutube.ru/video/78543e0ca16eda900ade71fd076ee235/) (Электро Василий)
-   1. [Сравнение Evolute i-Space | 2wd vs 4wd](https://vkvideo.ru/video-33517731_456242407) (Major Auto) — сравнение динамики разгона некорректное, это просто 2 обзора!
+   1. [Наша РАДОСТЬ была бы НЕ ПОЛНОЙ. EVOLUTE i-Space 4WD. НОВЫЕ и старые ПРОБЛЕМЫ и сравнение с BYD](https://vkvideo.ru/video-73354773_456240576) (Михаил Кульдяев)
+   1. [Evolute i-Space 4x4 и его полный привод!](https://dzen.ru/video/watch/69f06ef2ff56557c09498374) (За рулем)
 
 ## Габариты
 
